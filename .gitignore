@@ -186,4 +186,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-spotify_data.csvgit
+spotify_data.csv
