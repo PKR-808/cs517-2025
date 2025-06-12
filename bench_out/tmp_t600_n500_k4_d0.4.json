@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5Yzb3sVRYO4kqHhy0iVs1K",
+      "track_name": "Clich\u00ea (Participa\u00e7\u00e3o especial de Felipe Ara\u00fajo)",
+      "artist_name": "LUDMILLA",
+      "genre": "funk",
+      "start_sec": 0,
+      "duration_sec": 190,
+      "valence": 0.228,
+      "energy": 0.53,
+      "popularity": 44
+    },
+    {
+      "slot": 2,
+      "track_id": "6ATM1zRLGYYP72J9xwnL1L",
+      "track_name": "Saved My Life (with R3HAB)",
+      "artist_name": "Andy Grammer",
+      "genre": "dance",
+      "start_sec": 190,
+      "duration_sec": 174,
+      "valence": 0.468,
+      "energy": 0.648,
+      "popularity": 62
+    },
+    {
+      "slot": 3,
+      "track_id": "3Hb9kUdm4yf839Fle4RIdT",
+      "track_name": "Parado no Bail\u00e3o",
+      "artist_name": "MC L da Vinte",
+      "genre": "funk",
+      "start_sec": 364,
+      "duration_sec": 171,
+      "valence": 0.478,
+      "energy": 0.599,
+      "popularity": 78
+    },
+    {
+      "slot": 4,
+      "track_id": "6HzpmmaLVHC88XQY4e0YZL",
+      "track_name": "Vagabond - Acoustic Version",
+      "artist_name": "Wolfmother",
+      "genre": "alt-rock",
+      "start_sec": 535,
+      "duration_sec": 160,
+      "valence": 0.358,
+      "energy": 0.534,
+      "popularity": 50
+    }
+  ],
+  "total_duration_sec": 695,
+  "objective_val": "0.6475"
+}

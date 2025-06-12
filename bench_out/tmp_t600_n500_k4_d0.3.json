@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5Yzb3sVRYO4kqHhy0iVs1K",
+      "track_name": "Clich\u00ea (Participa\u00e7\u00e3o especial de Felipe Ara\u00fajo)",
+      "artist_name": "LUDMILLA",
+      "genre": "funk",
+      "start_sec": 0,
+      "duration_sec": 190,
+      "valence": 0.228,
+      "energy": 0.53,
+      "popularity": 44
+    },
+    {
+      "slot": 2,
+      "track_id": "5Es5IIQLMeKQDKpS4RHOST",
+      "track_name": "L\u00e1 no Meu Barraco",
+      "artist_name": "Mc Pikachu",
+      "genre": "funk",
+      "start_sec": 190,
+      "duration_sec": 166,
+      "valence": 0.347,
+      "energy": 0.504,
+      "popularity": 40
+    },
+    {
+      "slot": 3,
+      "track_id": "3Hb9kUdm4yf839Fle4RIdT",
+      "track_name": "Parado no Bail\u00e3o",
+      "artist_name": "MC L da Vinte",
+      "genre": "funk",
+      "start_sec": 356,
+      "duration_sec": 171,
+      "valence": 0.478,
+      "energy": 0.599,
+      "popularity": 78
+    },
+    {
+      "slot": 4,
+      "track_id": "5F8qO7vr7o8F9UuPDqzzmo",
+      "track_name": "Tose Naina (JZ Lofi Flip)",
+      "artist_name": "Jitz jz",
+      "genre": "indian",
+      "start_sec": 527,
+      "duration_sec": 165,
+      "valence": 0.238,
+      "energy": 0.543,
+      "popularity": 48
+    }
+  ],
+  "total_duration_sec": 692,
+  "objective_val": "0.69"
+}
