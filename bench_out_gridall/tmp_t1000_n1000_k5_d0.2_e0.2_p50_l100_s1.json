@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "4icP6ZujBOr7XQ7ghKVyt4",
+      "track_name": "Sommaren",
+      "artist_name": "Joakim Berg",
+      "genre": "swedish",
+      "start_sec": 0,
+      "duration_sec": 173,
+      "valence": 0.441,
+      "energy": 0.444,
+      "popularity": 56
+    },
+    {
+      "slot": 2,
+      "track_id": "1k555u88NiaBJH6AWlf5rA",
+      "track_name": "Every second",
+      "artist_name": "BAEKHYUN",
+      "genre": "k-pop",
+      "start_sec": 173,
+      "duration_sec": 212,
+      "valence": 0.485,
+      "energy": 0.597,
+      "popularity": 49
+    },
+    {
+      "slot": 3,
+      "track_id": "2SqEopjZJjyAAp2nFkJi7i",
+      "track_name": "Nice to See You",
+      "artist_name": "Vansire",
+      "genre": "indie-pop",
+      "start_sec": 385,
+      "duration_sec": 181,
+      "valence": 0.351,
+      "energy": 0.535,
+      "popularity": 59
+    },
+    {
+      "slot": 4,
+      "track_id": "1yKLa9X63tBfvLojNOw9y8",
+      "track_name": "Harambe",
+      "artist_name": "Young Thug",
+      "genre": "hip-hop",
+      "start_sec": 566,
+      "duration_sec": 190,
+      "valence": 0.218,
+      "energy": 0.488,
+      "popularity": 47
+    },
+    {
+      "slot": 5,
+      "track_id": "4jQkn21WCZ7g1NS2wMQeoi",
+      "track_name": "Hasi - Lofi Flip",
+      "artist_name": "KSW",
+      "genre": "indian",
+      "start_sec": 756,
+      "duration_sec": 183,
+      "valence": 0.149,
+      "energy": 0.342,
+      "popularity": 45
+    }
+  ],
+  "total_duration_sec": 939,
+  "objective_val": "1.4105"
+}

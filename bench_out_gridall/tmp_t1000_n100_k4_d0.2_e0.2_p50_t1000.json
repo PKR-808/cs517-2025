@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "3NRDLYyqIXja0UElvdzjkB",
+      "track_name": "Language",
+      "artist_name": "Porter Robinson",
+      "genre": "dance",
+      "start_sec": 0,
+      "duration_sec": 368,
+      "valence": 0.407,
+      "energy": 0.613,
+      "popularity": 51
+    },
+    {
+      "slot": 2,
+      "track_id": "60XGm1Hmyx7UliCAYjiCd8",
+      "track_name": "ONE WATCH (feat. Young Thug)",
+      "artist_name": "Gunna",
+      "genre": "hip-hop",
+      "start_sec": 368,
+      "duration_sec": 235,
+      "valence": 0.336,
+      "energy": 0.511,
+      "popularity": 51
+    },
+    {
+      "slot": 3,
+      "track_id": "3eSQsoHE6gcfPSu6sMQgZV",
+      "track_name": "Can't Sleep",
+      "artist_name": "K.Flay",
+      "genre": "electro",
+      "start_sec": 603,
+      "duration_sec": 251,
+      "valence": 0.299,
+      "energy": 0.48,
+      "popularity": 54
+    },
+    {
+      "slot": 4,
+      "track_id": "3TNoNv8Z80M3pfm6CcODsh",
+      "track_name": "One More Day",
+      "artist_name": "Diamond Rio",
+      "genre": "country",
+      "start_sec": 854,
+      "duration_sec": 216,
+      "valence": 0.234,
+      "energy": 0.405,
+      "popularity": 53
+    }
+  ],
+  "total_duration_sec": 1070,
+  "objective_val": "0.415"
+}

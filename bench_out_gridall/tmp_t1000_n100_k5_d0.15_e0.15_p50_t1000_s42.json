@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6xC8tcFBMMjJIyfPw66lDF",
+      "track_name": "Plagued",
+      "artist_name": "We Came As Romans",
+      "genre": "metal",
+      "start_sec": 0,
+      "duration_sec": 209,
+      "valence": 0.568,
+      "energy": 0.933,
+      "popularity": 57
+    },
+    {
+      "slot": 2,
+      "track_id": "59iTRaqCVSG6E382GYghBY",
+      "track_name": "Agapim\u00fa (feat. Ana Bel\u00e9n)",
+      "artist_name": "Ojete Calor",
+      "genre": "spanish",
+      "start_sec": 209,
+      "duration_sec": 164,
+      "valence": 0.557,
+      "energy": 0.897,
+      "popularity": 41
+    },
+    {
+      "slot": 3,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 373,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "6BxJLJw228OY5BFerPGl7z",
+      "track_name": "Dahan",
+      "artist_name": "December Avenue",
+      "genre": "punk",
+      "start_sec": 564,
+      "duration_sec": 297,
+      "valence": 0.295,
+      "energy": 0.529,
+      "popularity": 56
+    },
+    {
+      "slot": 5,
+      "track_id": "3TNoNv8Z80M3pfm6CcODsh",
+      "track_name": "One More Day",
+      "artist_name": "Diamond Rio",
+      "genre": "country",
+      "start_sec": 861,
+      "duration_sec": 216,
+      "valence": 0.234,
+      "energy": 0.405,
+      "popularity": 53
+    }
+  ],
+  "total_duration_sec": 1077,
+  "objective_val": "1.2885"
+}

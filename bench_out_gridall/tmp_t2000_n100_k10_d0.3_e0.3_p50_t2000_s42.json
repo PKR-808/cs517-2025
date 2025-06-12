@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "3b34161QoxLwsqhWSPy9i5",
+      "track_name": "Thanh Xuan",
+      "artist_name": "Da LAB",
+      "genre": "indie-pop",
+      "start_sec": 0,
+      "duration_sec": 220,
+      "valence": 0.347,
+      "energy": 0.4,
+      "popularity": 58
+    },
+    {
+      "slot": 2,
+      "track_id": "2aXtvKNcNHlbZEsZ5C9yVB",
+      "track_name": "Pearl Fountain",
+      "artist_name": "Yung Lean",
+      "genre": "hip-hop",
+      "start_sec": 220,
+      "duration_sec": 193,
+      "valence": 0.214,
+      "energy": 0.652,
+      "popularity": 46
+    },
+    {
+      "slot": 3,
+      "track_id": "3eSQsoHE6gcfPSu6sMQgZV",
+      "track_name": "Can't Sleep",
+      "artist_name": "K.Flay",
+      "genre": "electro",
+      "start_sec": 413,
+      "duration_sec": 251,
+      "valence": 0.299,
+      "energy": 0.48,
+      "popularity": 54
+    },
+    {
+      "slot": 4,
+      "track_id": "31cQX1WeqiCHQSysz9KaVb",
+      "track_name": "TANTO FAZ",
+      "artist_name": "MC Cabelinho",
+      "genre": "funk",
+      "start_sec": 664,
+      "duration_sec": 164,
+      "valence": 0.285,
+      "energy": 0.585,
+      "popularity": 66
+    },
+    {
+      "slot": 5,
+      "track_id": "2wzNQYX6veNM0AJncAV75v",
+      "track_name": "Up",
+      "artist_name": "Adelitas Way",
+      "genre": "alt-rock",
+      "start_sec": 828,
+      "duration_sec": 169,
+      "valence": 0.417,
+      "energy": 0.611,
+      "popularity": 49
+    },
+    {
+      "slot": 6,
+      "track_id": "7gChGUkqWkinDS7uYoMLIM",
+      "track_name": "Moaning Lisa Smile",
+      "artist_name": "Wolf Alice",
+      "genre": "alt-rock",
+      "start_sec": 997,
+      "duration_sec": 162,
+      "valence": 0.294,
+      "energy": 0.839,
+      "popularity": 44
+    },
+    {
+      "slot": 7,
+      "track_id": "6TwVzTtFYJwTHiNhHtbj36",
+      "track_name": "17",
+      "artist_name": "The Greeting Committee",
+      "genre": "indie-pop",
+      "start_sec": 1159,
+      "duration_sec": 219,
+      "valence": 0.538,
+      "energy": 0.751,
+      "popularity": 41
+    },
+    {
+      "slot": 8,
+      "track_id": "5r2620VyMS4JpB9UhmYjpG",
+      "track_name": "Burn Dem Bridges",
+      "artist_name": "Skin On Skin",
+      "genre": "techno",
+      "start_sec": 1378,
+      "duration_sec": 175,
+      "valence": 0.351,
+      "energy": 0.837,
+      "popularity": 60
+    },
+    {
+      "slot": 9,
+      "track_id": "56tEduBCyWPZ3gVAWONJCu",
+      "track_name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "artist_name": "GridKiller",
+      "genre": "hardcore",
+      "start_sec": 1553,
+      "duration_sec": 322,
+      "valence": 0.187,
+      "energy": 0.978,
+      "popularity": 41
+    },
+    {
+      "slot": 10,
+      "track_id": "6kiASFX63DwJ7grwKG2HUX",
+      "track_name": "Seven Pillars of Wisdom",
+      "artist_name": "Sabaton",
+      "genre": "metal",
+      "start_sec": 1875,
+      "duration_sec": 182,
+      "valence": 0.222,
+      "energy": 0.98,
+      "popularity": 56
+    }
+  ],
+  "total_duration_sec": 2057,
+  "objective_val": "3.7735"
+}

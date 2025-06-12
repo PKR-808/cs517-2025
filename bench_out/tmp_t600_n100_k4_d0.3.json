@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7gChGUkqWkinDS7uYoMLIM",
+      "track_name": "Moaning Lisa Smile",
+      "artist_name": "Wolf Alice",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 162,
+      "valence": 0.294,
+      "energy": 0.839,
+      "popularity": 44
+    },
+    {
+      "slot": 2,
+      "track_id": "5r2620VyMS4JpB9UhmYjpG",
+      "track_name": "Burn Dem Bridges",
+      "artist_name": "Skin On Skin",
+      "genre": "techno",
+      "start_sec": 162,
+      "duration_sec": 175,
+      "valence": 0.351,
+      "energy": 0.837,
+      "popularity": 60
+    },
+    {
+      "slot": 3,
+      "track_id": "6RvTtRyn7zVayLUWAJxd5Z",
+      "track_name": "Hentai",
+      "artist_name": "S3RL",
+      "genre": "hardcore",
+      "start_sec": 337,
+      "duration_sec": 185,
+      "valence": 0.422,
+      "energy": 0.76,
+      "popularity": 52
+    },
+    {
+      "slot": 4,
+      "track_id": "2wzNQYX6veNM0AJncAV75v",
+      "track_name": "Up",
+      "artist_name": "Adelitas Way",
+      "genre": "alt-rock",
+      "start_sec": 522,
+      "duration_sec": 169,
+      "valence": 0.417,
+      "energy": 0.611,
+      "popularity": 49
+    }
+  ],
+  "total_duration_sec": 691,
+  "objective_val": "0.373"
+}

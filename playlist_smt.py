@@ -27,7 +27,7 @@ import pathlib
 import random
 import sys
 from typing import Dict, List
-from time import time
+import time
 
 from z3 import (
     Bool,
@@ -81,7 +81,7 @@ def parse_args(argv=None) -> argparse.Namespace:
         default=0,
         help="randomly sample at most N tracks before building model (0 = keep all)",
     )
-    p.add_argument("--seed", type=int, default=None, help="rng seed")
+    p.add_argument("--seed", type=int, default=42, help="rng seed")
     p.add_argument("--out", type=pathlib.Path, default="solution.json")
     p.add_argument("--verbose", "-v", action="store_true")
     return p.parse_args(argv)
@@ -131,7 +131,7 @@ def build_and_solve(
         print(f"Building model with {n} tracks, {max_slots} slots…")
 
     opt = Optimize()
-    opt.set("timeout", 60_000)          # 60 s safety net
+    opt.set("timeout", 240_000)          # 60 s safety net
 
 
     set_param("parallel.enable", True)
@@ -237,6 +237,7 @@ def build_and_solve(
     #                       for i in range(n)
     #                       for j in range(max_slots)])  / max_slots
     #   opt.minimize(roughness - 0.01 * avg_pop_var)
+    # print("roughness: ", roughness)
     opt.minimize(roughness)
 
     # ------------------------------------------------------------------
@@ -245,13 +246,15 @@ def build_and_solve(
         # Solve  (heartbeat + timeout)
     # ------------------------------------------------------------------
     # print("⏳  calling Z3 …", flush=True)
-    # start = time.perf_counter()
-
+    start = time.time()
+    print("⏳ solving…", flush=True)
+    check = opt.check()
+    # print("✓ result:", check)
     # check = opt.check()
-    # elapsed = time.perf_counter() - start
+    elapsed = time.time() - start
 
-    # print(f"✔  Z3 returned {check} in {elapsed:,.2f} s")
-    if opt.check() != sat:
+    print(f"✔  Z3 returned {check} in {elapsed:,.2f} s")
+    if check != sat:
         return None  # unsat
 
     m = opt.model()

@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6BxJLJw228OY5BFerPGl7z",
+      "track_name": "Dahan",
+      "artist_name": "December Avenue",
+      "genre": "punk",
+      "start_sec": 0,
+      "duration_sec": 297,
+      "valence": 0.295,
+      "energy": 0.529,
+      "popularity": 56
+    },
+    {
+      "slot": 2,
+      "track_id": "4Oo4zq02t4mKYSGVYxggHf",
+      "track_name": "Foundations (feat. Jasmine Thompson)",
+      "artist_name": "KOLIDESCOPES",
+      "genre": "soul",
+      "start_sec": 297,
+      "duration_sec": 231,
+      "valence": 0.285,
+      "energy": 0.467,
+      "popularity": 45
+    },
+    {
+      "slot": 3,
+      "track_id": "7rErmb9ztCh29H8nWmavQz",
+      "track_name": "Special",
+      "artist_name": "21 Savage",
+      "genre": "hip-hop",
+      "start_sec": 528,
+      "duration_sec": 217,
+      "valence": 0.333,
+      "energy": 0.321,
+      "popularity": 47
+    },
+    {
+      "slot": 4,
+      "track_id": "3b34161QoxLwsqhWSPy9i5",
+      "track_name": "Thanh Xuan",
+      "artist_name": "Da LAB",
+      "genre": "indie-pop",
+      "start_sec": 745,
+      "duration_sec": 220,
+      "valence": 0.347,
+      "energy": 0.4,
+      "popularity": 58
+    }
+  ],
+  "total_duration_sec": 965,
+  "objective_val": "0.4265"
+}

@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7oqftogUN82Q7VNy2TmTJW",
+      "track_name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
+      "artist_name": "Beyonc\u00e9",
+      "genre": "dance",
+      "start_sec": 0,
+      "duration_sec": 272,
+      "valence": 0.709,
+      "energy": 0.709,
+      "popularity": 52
+    },
+    {
+      "slot": 2,
+      "track_id": "7xXvPyOiFCsB5SSpio5g38",
+      "track_name": "New York",
+      "artist_name": "Ja Rule",
+      "genre": "dance",
+      "start_sec": 272,
+      "duration_sec": 258,
+      "valence": 0.572,
+      "energy": 0.795,
+      "popularity": 56
+    },
+    {
+      "slot": 3,
+      "track_id": "3ZgREsnsGWwcb2WbiRzID5",
+      "track_name": "Too Much Whiskey",
+      "artist_name": "Marcus King",
+      "genre": "blues",
+      "start_sec": 530,
+      "duration_sec": 234,
+      "valence": 0.726,
+      "energy": 0.738,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "5FOCkGt7bp22nBVfQ4WSIT",
+      "track_name": "Indecente",
+      "artist_name": "Anitta",
+      "genre": "funk",
+      "start_sec": 764,
+      "duration_sec": 205,
+      "valence": 0.587,
+      "energy": 0.602,
+      "popularity": 48
+    }
+  ],
+  "total_duration_sec": 969,
+  "objective_val": "1.025"
+}

@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "0Bfima51LTKrxuBYjv0Qwp",
+      "track_name": "Teri Deewani - Lofi Flip",
+      "artist_name": "Kailash Kher",
+      "genre": "indian",
+      "start_sec": 0,
+      "duration_sec": 187,
+      "valence": 0.454,
+      "energy": 0.378,
+      "popularity": 45
+    },
+    {
+      "slot": 2,
+      "track_id": "740kQ8xwSGloumdiKR5Cwz",
+      "track_name": "Trillionaire (feat. Youngboy Never Broke Again)",
+      "artist_name": "Future",
+      "genre": "hip-hop",
+      "start_sec": 187,
+      "duration_sec": 167,
+      "valence": 0.473,
+      "energy": 0.526,
+      "popularity": 59
+    },
+    {
+      "slot": 3,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 354,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "1BRwuvjhkgezmv1gcI6lT6",
+      "track_name": "Die Young",
+      "artist_name": "Sylvan Esso",
+      "genre": "electro",
+      "start_sec": 545,
+      "duration_sec": 210,
+      "valence": 0.418,
+      "energy": 0.544,
+      "popularity": 56
+    },
+    {
+      "slot": 5,
+      "track_id": "2Dy62wRhdCWmVq7Z8MAnvj",
+      "track_name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
+      "artist_name": "Kim Hyun Joong",
+      "genre": "k-pop",
+      "start_sec": 755,
+      "duration_sec": 299,
+      "valence": 0.434,
+      "energy": 0.4,
+      "popularity": 46
+    }
+  ],
+  "total_duration_sec": 1054,
+  "objective_val": "0.867"
+}

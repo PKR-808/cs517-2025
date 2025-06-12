@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7I3skNaQdvZSS7zXY2VHId",
+      "track_name": "The Hype",
+      "artist_name": "Twenty One Pilots",
+      "genre": "rock",
+      "start_sec": 0,
+      "duration_sec": 265,
+      "valence": 0.371,
+      "energy": 0.816,
+      "popularity": 61
+    },
+    {
+      "slot": 2,
+      "track_id": "59iTRaqCVSG6E382GYghBY",
+      "track_name": "Agapim\u00fa (feat. Ana Bel\u00e9n)",
+      "artist_name": "Ojete Calor",
+      "genre": "spanish",
+      "start_sec": 265,
+      "duration_sec": 164,
+      "valence": 0.557,
+      "energy": 0.897,
+      "popularity": 41
+    },
+    {
+      "slot": 3,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 429,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "1BRwuvjhkgezmv1gcI6lT6",
+      "track_name": "Die Young",
+      "artist_name": "Sylvan Esso",
+      "genre": "electro",
+      "start_sec": 620,
+      "duration_sec": 210,
+      "valence": 0.418,
+      "energy": 0.544,
+      "popularity": 56
+    },
+    {
+      "slot": 5,
+      "track_id": "3TNoNv8Z80M3pfm6CcODsh",
+      "track_name": "One More Day",
+      "artist_name": "Diamond Rio",
+      "genre": "country",
+      "start_sec": 830,
+      "duration_sec": 216,
+      "valence": 0.234,
+      "energy": 0.405,
+      "popularity": 53
+    }
+  ],
+  "total_duration_sec": 1046,
+  "objective_val": "1.1195"
+}

@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "1RjEDlhTp2iJXWPdLpa8OM",
+      "track_name": "Say Anything",
+      "artist_name": "Tristan Prettyman",
+      "genre": "acoustic",
+      "start_sec": 0,
+      "duration_sec": 236,
+      "valence": 0.335,
+      "energy": 0.43,
+      "popularity": 45
+    },
+    {
+      "slot": 2,
+      "track_id": "3Y6BuzQCg9p4yH347Nn8OW",
+      "track_name": "Dancing Shoes",
+      "artist_name": "Green River Ordinance",
+      "genre": "acoustic",
+      "start_sec": 236,
+      "duration_sec": 232,
+      "valence": 0.318,
+      "energy": 0.423,
+      "popularity": 45
+    },
+    {
+      "slot": 4,
+      "track_id": "6VtoP2sJt5oCmPOQIve2sf",
+      "track_name": "Someone Like You",
+      "artist_name": "Boyce Avenue",
+      "genre": "acoustic",
+      "start_sec": 468,
+      "duration_sec": 276,
+      "valence": 0.264,
+      "energy": 0.207,
+      "popularity": 55
+    },
+    {
+      "slot": 6,
+      "track_id": "6nXIYClvJAfi6ujLiKqEq8",
+      "track_name": "Sky's Still Blue",
+      "artist_name": "Andrew Belle",
+      "genre": "acoustic",
+      "start_sec": 744,
+      "duration_sec": 244,
+      "valence": 0.217,
+      "energy": 0.791,
+      "popularity": 54
+    }
+  ],
+  "total_duration_sec": 988,
+  "objective_val": "0.024"
+}

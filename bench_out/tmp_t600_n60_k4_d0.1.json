@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6vhOyWiOnO7EzxnXBllmkQ",
+      "track_name": "Go Solo (feat. Tom Rosenthal)",
+      "artist_name": "Zwette",
+      "genre": "german",
+      "start_sec": 0,
+      "duration_sec": 192,
+      "valence": 0.368,
+      "energy": 0.557,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "64NbuVo6gPwKaoc7RHnrcR",
+      "track_name": "Denkmal",
+      "artist_name": "Stereoact",
+      "genre": "party",
+      "start_sec": 192,
+      "duration_sec": 175,
+      "valence": 0.308,
+      "energy": 0.689,
+      "popularity": 42
+    },
+    {
+      "slot": 3,
+      "track_id": "5r2620VyMS4JpB9UhmYjpG",
+      "track_name": "Burn Dem Bridges",
+      "artist_name": "Skin On Skin",
+      "genre": "techno",
+      "start_sec": 367,
+      "duration_sec": 175,
+      "valence": 0.351,
+      "energy": 0.837,
+      "popularity": 60
+    },
+    {
+      "slot": 4,
+      "track_id": "5fZ5F3Qj5PJ5yYKzgzB6oY",
+      "track_name": "Alone",
+      "artist_name": "HIMALAYAS",
+      "genre": "alt-rock",
+      "start_sec": 542,
+      "duration_sec": 157,
+      "valence": 0.252,
+      "energy": 0.877,
+      "popularity": 52
+    }
+  ],
+  "total_duration_sec": 699,
+  "objective_val": "0.749"
+}

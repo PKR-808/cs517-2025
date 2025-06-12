@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "3cU2wBxuV6nFiuf6PJZNlC",
+      "track_name": "Dear Future Husband",
+      "artist_name": "Meghan Trainor",
+      "genre": "pop",
+      "start_sec": 0,
+      "duration_sec": 184,
+      "valence": 0.832,
+      "energy": 0.782,
+      "popularity": 74
+    },
+    {
+      "slot": 2,
+      "track_id": "2vPRrOaM3zvPwrOHoIPjcF",
+      "track_name": "Ele \u00c9 Ele, Eu Sou Eu",
+      "artist_name": "Wesley Safad\u00e3o",
+      "genre": "forro",
+      "start_sec": 184,
+      "duration_sec": 155,
+      "valence": 0.862,
+      "energy": 0.761,
+      "popularity": 62
+    },
+    {
+      "slot": 3,
+      "track_id": "7Fk9CYJkv8BMXvADZhPNvh",
+      "track_name": "Z\u00e9 Ruela - Ao Vivo",
+      "artist_name": "Henrique & Juliano",
+      "genre": "sertanejo",
+      "start_sec": 339,
+      "duration_sec": 168,
+      "valence": 0.819,
+      "energy": 0.79,
+      "popularity": 43
+    },
+    {
+      "slot": 4,
+      "track_id": "5u8a3ikxBEyPlMjPLlYqmN",
+      "track_name": "Love Shy (Thinking About You) - Virgo vs. Agent X Club Mix",
+      "artist_name": "Platnum",
+      "genre": "garage",
+      "start_sec": 507,
+      "duration_sec": 174,
+      "valence": 0.747,
+      "energy": 0.823,
+      "popularity": 42
+    }
+  ],
+  "total_duration_sec": 681,
+  "objective_val": "0.232"
+}

@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7tgEm1rQTA603HnZYRDgKL",
+      "track_name": "Fit In",
+      "artist_name": "Lil Baby",
+      "genre": "hip-hop",
+      "start_sec": 0,
+      "duration_sec": 213,
+      "valence": 0.653,
+      "energy": 0.444,
+      "popularity": 50
+    },
+    {
+      "slot": 2,
+      "track_id": "4llr8mcoauwrHBtjGb7F9S",
+      "track_name": "Tipo Gin - Ao Vivo",
+      "artist_name": "MC Kevin o Chris",
+      "genre": "funk",
+      "start_sec": 213,
+      "duration_sec": 159,
+      "valence": 0.786,
+      "energy": 0.668,
+      "popularity": 57
+    },
+    {
+      "slot": 3,
+      "track_id": "1ej2ir5g4uW20gdaK7YoXz",
+      "track_name": "Mindset",
+      "artist_name": "Every Avenue",
+      "genre": "emo",
+      "start_sec": 372,
+      "duration_sec": 206,
+      "valence": 0.668,
+      "energy": 0.863,
+      "popularity": 46
+    },
+    {
+      "slot": 4,
+      "track_id": "6qItZri8lMKeIbBUuSV3Ea",
+      "track_name": "Atrapados en la red",
+      "artist_name": "Tam Tam Go!",
+      "genre": "indie-pop",
+      "start_sec": 578,
+      "duration_sec": 263,
+      "valence": 0.948,
+      "energy": 0.749,
+      "popularity": 43
+    },
+    {
+      "slot": 5,
+      "track_id": "18XlJEroUwFo0tLZxscgXE",
+      "track_name": "Lost",
+      "artist_name": "Maroon 5",
+      "genre": "pop",
+      "start_sec": 841,
+      "duration_sec": 172,
+      "valence": 0.766,
+      "energy": 0.706,
+      "popularity": 70
+    }
+  ],
+  "total_duration_sec": 1013,
+  "objective_val": "1.3725"
+}

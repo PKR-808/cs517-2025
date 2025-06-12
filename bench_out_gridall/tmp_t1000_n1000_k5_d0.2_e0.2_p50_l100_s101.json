@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "4hepyFFOO9I7oZCNn3T2sz",
+      "track_name": "More, More, More",
+      "artist_name": "Andrea True Connection",
+      "genre": "disco",
+      "start_sec": 0,
+      "duration_sec": 222,
+      "valence": 0.847,
+      "energy": 0.792,
+      "popularity": 49
+    },
+    {
+      "slot": 2,
+      "track_id": "7y3c1oJMY1CwwtOZ84Qovu",
+      "track_name": "Hallucination",
+      "artist_name": "Regard",
+      "genre": "dance",
+      "start_sec": 222,
+      "duration_sec": 174,
+      "valence": 0.669,
+      "energy": 0.788,
+      "popularity": 70
+    },
+    {
+      "slot": 3,
+      "track_id": "31ue6kAOfrqVrdoPdfkq40",
+      "track_name": "Adaptation",
+      "artist_name": "The Weeknd",
+      "genre": "pop",
+      "start_sec": 396,
+      "duration_sec": 283,
+      "valence": 0.623,
+      "energy": 0.792,
+      "popularity": 47
+    },
+    {
+      "slot": 4,
+      "track_id": "4PUT0cH2iggaje5hTJZeGe",
+      "track_name": "Love Me More",
+      "artist_name": "Mitski",
+      "genre": "indie-pop",
+      "start_sec": 679,
+      "duration_sec": 212,
+      "valence": 0.491,
+      "energy": 0.707,
+      "popularity": 60
+    },
+    {
+      "slot": 5,
+      "track_id": "1dcAnjXxZDADLx2OK7AEj4",
+      "track_name": "Losing Blood",
+      "artist_name": "PmBata",
+      "genre": "sad",
+      "start_sec": 891,
+      "duration_sec": 164,
+      "valence": 0.663,
+      "energy": 0.601,
+      "popularity": 40
+    }
+  ],
+  "total_duration_sec": 1055,
+  "objective_val": "0.962"
+}

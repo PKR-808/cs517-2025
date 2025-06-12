@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "15YEYgT0kDso9gwOcJFAmV",
+      "track_name": "O Beb\u00ea",
+      "artist_name": "MC Kevinho",
+      "genre": "funk",
+      "start_sec": 0,
+      "duration_sec": 178,
+      "valence": 0.794,
+      "energy": 0.746,
+      "popularity": 51
+    },
+    {
+      "slot": 2,
+      "track_id": "0QOH4xpTbzUyBYHtWcfK8I",
+      "track_name": "No Parachute",
+      "artist_name": "ONEW",
+      "genre": "k-pop",
+      "start_sec": 178,
+      "duration_sec": 168,
+      "valence": 0.711,
+      "energy": 0.729,
+      "popularity": 49
+    },
+    {
+      "slot": 3,
+      "track_id": "5WUgOOaTk00PnksDekcgcg",
+      "track_name": "Baby, Please Don't Go (feat. Van Morrison)",
+      "artist_name": "Them",
+      "genre": "blues",
+      "start_sec": 346,
+      "duration_sec": 162,
+      "valence": 0.775,
+      "energy": 0.705,
+      "popularity": 58
+    },
+    {
+      "slot": 4,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 508,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    }
+  ],
+  "total_duration_sec": 660,
+  "objective_val": "0.3585"
+}

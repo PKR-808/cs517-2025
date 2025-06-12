@@ -1,0 +1,102 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "56JJPu17vw3E0U7oBuUDRh",
+      "track_name": "Herb Shuttles",
+      "artist_name": "The Underachievers",
+      "genre": "hip-hop",
+      "start_sec": 0,
+      "duration_sec": 195,
+      "valence": 0.314,
+      "energy": 0.758,
+      "popularity": 41
+    },
+    {
+      "slot": 2,
+      "track_id": "6Xs7OKt6i0Ddq8B4M5Dgvr",
+      "track_name": "New Americana",
+      "artist_name": "Halsey",
+      "genre": "electro",
+      "start_sec": 195,
+      "duration_sec": 183,
+      "valence": 0.359,
+      "energy": 0.707,
+      "popularity": 61
+    },
+    {
+      "slot": 3,
+      "track_id": "57UFzhgsL7Q4lxaEKosMSb",
+      "track_name": "B\u20acNZ",
+      "artist_name": "\u20acURO TRA$H",
+      "genre": "electro",
+      "start_sec": 378,
+      "duration_sec": 245,
+      "valence": 0.384,
+      "energy": 0.763,
+      "popularity": 51
+    },
+    {
+      "slot": 4,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 623,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 5,
+      "track_id": "0CouSp6wkZKvAhvY6aLFGe",
+      "track_name": "El Tren Hurac\u00e1n",
+      "artist_name": "La Ra\u00edz",
+      "genre": "ska",
+      "start_sec": 814,
+      "duration_sec": 251,
+      "valence": 0.58,
+      "energy": 0.792,
+      "popularity": 46
+    },
+    {
+      "slot": 6,
+      "track_id": "2EGF4JrisrJ4D4HOdTyYEO",
+      "track_name": "Bulletproof Heart",
+      "artist_name": "My Chemical Romance",
+      "genre": "emo",
+      "start_sec": 1065,
+      "duration_sec": 296,
+      "valence": 0.383,
+      "energy": 0.95,
+      "popularity": 58
+    },
+    {
+      "slot": 7,
+      "track_id": "34JS7SWgCH3282btYwsPWQ",
+      "track_name": "Alias",
+      "artist_name": "In Flames",
+      "genre": "death-metal",
+      "start_sec": 1361,
+      "duration_sec": 289,
+      "valence": 0.361,
+      "energy": 0.93,
+      "popularity": 49
+    },
+    {
+      "slot": 8,
+      "track_id": "5BmagRD7Thki6O1zZwbxBy",
+      "track_name": "The Boys of Summer",
+      "artist_name": "The Ataris",
+      "genre": "emo",
+      "start_sec": 1650,
+      "duration_sec": 258,
+      "valence": 0.264,
+      "energy": 0.954,
+      "popularity": 64
+    }
+  ],
+  "total_duration_sec": 1908,
+  "objective_val": "1.885"
+}

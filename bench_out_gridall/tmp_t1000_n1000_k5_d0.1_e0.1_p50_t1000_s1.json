@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5TqzSPA4swEzMKBQtkvcU0",
+      "track_name": "Lovely",
+      "artist_name": "1nonly",
+      "genre": "sad",
+      "start_sec": 0,
+      "duration_sec": 153,
+      "valence": 0.292,
+      "energy": 0.606,
+      "popularity": 57
+    },
+    {
+      "slot": 2,
+      "track_id": "2SqEopjZJjyAAp2nFkJi7i",
+      "track_name": "Nice to See You",
+      "artist_name": "Vansire",
+      "genre": "indie-pop",
+      "start_sec": 153,
+      "duration_sec": 181,
+      "valence": 0.351,
+      "energy": 0.535,
+      "popularity": 59
+    },
+    {
+      "slot": 3,
+      "track_id": "3lTxG17fsMrjrNkTNJ9NaZ",
+      "track_name": "Sink",
+      "artist_name": "Noah Kahan",
+      "genre": "pop",
+      "start_sec": 334,
+      "duration_sec": 225,
+      "valence": 0.355,
+      "energy": 0.471,
+      "popularity": 58
+    },
+    {
+      "slot": 4,
+      "track_id": "58k32my5lKofeZRtIvBDg9",
+      "track_name": "HONEST",
+      "artist_name": "Baby Keem",
+      "genre": "hip-hop",
+      "start_sec": 559,
+      "duration_sec": 172,
+      "valence": 0.373,
+      "energy": 0.536,
+      "popularity": 80
+    },
+    {
+      "slot": 5,
+      "track_id": "3tzjn5ILVuHc4eSLTH60lY",
+      "track_name": "Long D",
+      "artist_name": "Jace Chan",
+      "genre": "cantopop",
+      "start_sec": 731,
+      "duration_sec": 221,
+      "valence": 0.377,
+      "energy": 0.492,
+      "popularity": 42
+    }
+  ],
+  "total_duration_sec": 952,
+  "objective_val": "0.3295"
+}

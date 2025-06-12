@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6CeOuCrMBB3iHViJiO5whN",
+      "track_name": "Ser\u00eda Un Placer",
+      "artist_name": "Neto Pe\u00f1a",
+      "genre": "hip-hop",
+      "start_sec": 0,
+      "duration_sec": 173,
+      "valence": 0.844,
+      "energy": 0.621,
+      "popularity": 64
+    },
+    {
+      "slot": 2,
+      "track_id": "6nR9eZoi3N1YCAvU8x9qxE",
+      "track_name": "G\u00f6n\u00fcl Sayfam",
+      "artist_name": "Kayahan",
+      "genre": "folk",
+      "start_sec": 173,
+      "duration_sec": 256,
+      "valence": 0.823,
+      "energy": 0.665,
+      "popularity": 47
+    },
+    {
+      "slot": 3,
+      "track_id": "5AQNVgt7BKHKRhrNFFgSPF",
+      "track_name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
+      "artist_name": "Marcos & Belutti",
+      "genre": "sertanejo",
+      "start_sec": 429,
+      "duration_sec": 171,
+      "valence": 0.641,
+      "energy": 0.855,
+      "popularity": 45
+    },
+    {
+      "slot": 4,
+      "track_id": "6xC8tcFBMMjJIyfPw66lDF",
+      "track_name": "Plagued",
+      "artist_name": "We Came As Romans",
+      "genre": "metal",
+      "start_sec": 600,
+      "duration_sec": 209,
+      "valence": 0.568,
+      "energy": 0.933,
+      "popularity": 57
+    },
+    {
+      "slot": 5,
+      "track_id": "57UFzhgsL7Q4lxaEKosMSb",
+      "track_name": "B\u20acNZ",
+      "artist_name": "\u20acURO TRA$H",
+      "genre": "electro",
+      "start_sec": 809,
+      "duration_sec": 245,
+      "valence": 0.384,
+      "energy": 0.763,
+      "popularity": 51
+    },
+    {
+      "slot": 6,
+      "track_id": "56JJPu17vw3E0U7oBuUDRh",
+      "track_name": "Herb Shuttles",
+      "artist_name": "The Underachievers",
+      "genre": "hip-hop",
+      "start_sec": 1054,
+      "duration_sec": 195,
+      "valence": 0.314,
+      "energy": 0.758,
+      "popularity": 41
+    },
+    {
+      "slot": 7,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 1249,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 8,
+      "track_id": "1BRwuvjhkgezmv1gcI6lT6",
+      "track_name": "Die Young",
+      "artist_name": "Sylvan Esso",
+      "genre": "electro",
+      "start_sec": 1440,
+      "duration_sec": 210,
+      "valence": 0.418,
+      "energy": 0.544,
+      "popularity": 56
+    },
+    {
+      "slot": 9,
+      "track_id": "0MUAB4NiqM91Ndm7Tz3kEQ",
+      "track_name": "Go For It",
+      "artist_name": "Djo",
+      "genre": "psych-rock",
+      "start_sec": 1650,
+      "duration_sec": 181,
+      "valence": 0.599,
+      "energy": 0.489,
+      "popularity": 47
+    },
+    {
+      "slot": 10,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 1831,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    }
+  ],
+  "total_duration_sec": 1983,
+  "objective_val": "1.8765"
+}

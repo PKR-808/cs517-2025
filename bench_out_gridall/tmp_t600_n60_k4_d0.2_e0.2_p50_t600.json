@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5mqzhMuUpvnMfwNz6iepmO",
+      "track_name": "Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",
+      "artist_name": "Diplo",
+      "genre": "dance",
+      "start_sec": 0,
+      "duration_sec": 181,
+      "valence": 0.486,
+      "energy": 0.845,
+      "popularity": 64
+    },
+    {
+      "slot": 2,
+      "track_id": "4N3mCAp8Z8JTf6gsCkPQBp",
+      "track_name": "Santa Cruz",
+      "artist_name": "Jon Pardi",
+      "genre": "country",
+      "start_sec": 181,
+      "duration_sec": 196,
+      "valence": 0.656,
+      "energy": 0.76,
+      "popularity": 41
+    },
+    {
+      "slot": 3,
+      "track_id": "6CeOuCrMBB3iHViJiO5whN",
+      "track_name": "Ser\u00eda Un Placer",
+      "artist_name": "Neto Pe\u00f1a",
+      "genre": "hip-hop",
+      "start_sec": 377,
+      "duration_sec": 173,
+      "valence": 0.844,
+      "energy": 0.621,
+      "popularity": 64
+    },
+    {
+      "slot": 4,
+      "track_id": "0wS4OuuXKAXN8aUCG6f3tE",
+      "track_name": "Los Tres Mandos",
+      "artist_name": "Alfredo Olivas",
+      "genre": "sad",
+      "start_sec": 550,
+      "duration_sec": 150,
+      "valence": 0.908,
+      "energy": 0.673,
+      "popularity": 41
+    }
+  ],
+  "total_duration_sec": 700,
+  "objective_val": "1.065"
+}

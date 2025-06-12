@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "0YNtAadZvKBBEFARtfoCV8",
+      "track_name": "Compass",
+      "artist_name": "The Neighbourhood",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 167,
+      "valence": 0.667,
+      "energy": 0.82,
+      "popularity": 69
+    },
+    {
+      "slot": 2,
+      "track_id": "1aHD82i5jonBoNqyOj33ts",
+      "track_name": "Can't Hold On",
+      "artist_name": "MED",
+      "genre": "hip-hop",
+      "start_sec": 167,
+      "duration_sec": 182,
+      "valence": 0.732,
+      "energy": 0.832,
+      "popularity": 41
+    },
+    {
+      "slot": 3,
+      "track_id": "4c1xBl7NISQ6okmlTWYfzx",
+      "track_name": "Catalina - Remix",
+      "artist_name": "Mr Black El Presidente",
+      "genre": "salsa",
+      "start_sec": 349,
+      "duration_sec": 210,
+      "valence": 0.793,
+      "energy": 0.931,
+      "popularity": 46
+    },
+    {
+      "slot": 4,
+      "track_id": "45bfH0GZvUyujIBiKRhXso",
+      "track_name": "B.O.T.A. (Baddest Of Them All)",
+      "artist_name": "Eliza Rose",
+      "genre": "house",
+      "start_sec": 559,
+      "duration_sec": 358,
+      "valence": 0.749,
+      "energy": 0.962,
+      "popularity": 65
+    }
+  ],
+  "total_duration_sec": 917,
+  "objective_val": "0.347"
+}

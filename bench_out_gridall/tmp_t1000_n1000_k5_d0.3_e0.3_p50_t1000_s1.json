@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "4icP6ZujBOr7XQ7ghKVyt4",
+      "track_name": "Sommaren",
+      "artist_name": "Joakim Berg",
+      "genre": "swedish",
+      "start_sec": 0,
+      "duration_sec": 173,
+      "valence": 0.441,
+      "energy": 0.444,
+      "popularity": 56
+    },
+    {
+      "slot": 2,
+      "track_id": "6n7pN952ASYZ0FODczWqFZ",
+      "track_name": "Voc\u00ea Tem Um Pai",
+      "artist_name": "Leandro Borges",
+      "genre": "gospel",
+      "start_sec": 173,
+      "duration_sec": 309,
+      "valence": 0.378,
+      "energy": 0.709,
+      "popularity": 50
+    },
+    {
+      "slot": 3,
+      "track_id": "5TqzSPA4swEzMKBQtkvcU0",
+      "track_name": "Lovely",
+      "artist_name": "1nonly",
+      "genre": "sad",
+      "start_sec": 482,
+      "duration_sec": 153,
+      "valence": 0.292,
+      "energy": 0.606,
+      "popularity": 57
+    },
+    {
+      "slot": 4,
+      "track_id": "2SqEopjZJjyAAp2nFkJi7i",
+      "track_name": "Nice to See You",
+      "artist_name": "Vansire",
+      "genre": "indie-pop",
+      "start_sec": 635,
+      "duration_sec": 181,
+      "valence": 0.351,
+      "energy": 0.535,
+      "popularity": 59
+    },
+    {
+      "slot": 5,
+      "track_id": "4jQkn21WCZ7g1NS2wMQeoi",
+      "track_name": "Hasi - Lofi Flip",
+      "artist_name": "KSW",
+      "genre": "indian",
+      "start_sec": 816,
+      "duration_sec": 183,
+      "valence": 0.149,
+      "energy": 0.342,
+      "popularity": 45
+    }
+  ],
+  "total_duration_sec": 999,
+  "objective_val": "1.045"
+}

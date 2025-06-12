@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "27zJBz0YnuZO69U69z96vd",
+      "track_name": "Caught in the Middle",
+      "artist_name": "Paramore",
+      "genre": "pop",
+      "start_sec": 0,
+      "duration_sec": 214,
+      "valence": 0.814,
+      "energy": 0.807,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "0QOH4xpTbzUyBYHtWcfK8I",
+      "track_name": "No Parachute",
+      "artist_name": "ONEW",
+      "genre": "k-pop",
+      "start_sec": 214,
+      "duration_sec": 168,
+      "valence": 0.711,
+      "energy": 0.729,
+      "popularity": 49
+    },
+    {
+      "slot": 3,
+      "track_id": "5WUgOOaTk00PnksDekcgcg",
+      "track_name": "Baby, Please Don't Go (feat. Van Morrison)",
+      "artist_name": "Them",
+      "genre": "blues",
+      "start_sec": 382,
+      "duration_sec": 162,
+      "valence": 0.775,
+      "energy": 0.705,
+      "popularity": 58
+    },
+    {
+      "slot": 4,
+      "track_id": "0wS4OuuXKAXN8aUCG6f3tE",
+      "track_name": "Los Tres Mandos",
+      "artist_name": "Alfredo Olivas",
+      "genre": "sad",
+      "start_sec": 544,
+      "duration_sec": 150,
+      "valence": 0.908,
+      "energy": 0.673,
+      "popularity": 41
+    },
+    {
+      "slot": 5,
+      "track_id": "2ugGNNwNaJdiusX3aLOMUy",
+      "track_name": "Whose Bed Have Your Boots Been Under?",
+      "artist_name": "Shania Twain",
+      "genre": "country",
+      "start_sec": 694,
+      "duration_sec": 238,
+      "valence": 0.848,
+      "energy": 0.732,
+      "popularity": 58
+    },
+    {
+      "slot": 6,
+      "track_id": "0s9xZDmDtrZKvgXVNJl5VS",
+      "track_name": "Bad Bitches Wrk @ Taboo",
+      "artist_name": "Tory Lanez",
+      "genre": "hip-hop",
+      "start_sec": 932,
+      "duration_sec": 177,
+      "valence": 0.818,
+      "energy": 0.564,
+      "popularity": 59
+    },
+    {
+      "slot": 7,
+      "track_id": "4ml0940tmn92PzmkSb2lwU",
+      "track_name": "Stay Away",
+      "artist_name": "Charles Bradley",
+      "genre": "funk",
+      "start_sec": 1109,
+      "duration_sec": 191,
+      "valence": 0.64,
+      "energy": 0.71,
+      "popularity": 54
+    },
+    {
+      "slot": 8,
+      "track_id": "4N3mCAp8Z8JTf6gsCkPQBp",
+      "track_name": "Santa Cruz",
+      "artist_name": "Jon Pardi",
+      "genre": "country",
+      "start_sec": 1300,
+      "duration_sec": 196,
+      "valence": 0.656,
+      "energy": 0.76,
+      "popularity": 41
+    },
+    {
+      "slot": 9,
+      "track_id": "0CouSp6wkZKvAhvY6aLFGe",
+      "track_name": "El Tren Hurac\u00e1n",
+      "artist_name": "La Ra\u00edz",
+      "genre": "ska",
+      "start_sec": 1496,
+      "duration_sec": 251,
+      "valence": 0.58,
+      "energy": 0.792,
+      "popularity": 46
+    },
+    {
+      "slot": 10,
+      "track_id": "0YNtAadZvKBBEFARtfoCV8",
+      "track_name": "Compass",
+      "artist_name": "The Neighbourhood",
+      "genre": "alt-rock",
+      "start_sec": 1747,
+      "duration_sec": 167,
+      "valence": 0.667,
+      "energy": 0.82,
+      "popularity": 69
+    }
+  ],
+  "total_duration_sec": 1914,
+  "objective_val": "1.4025"
+}

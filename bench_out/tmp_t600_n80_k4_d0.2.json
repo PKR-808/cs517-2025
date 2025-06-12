@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "54GASuUdLbhhdyECNUp3Pb",
+      "track_name": "The King",
+      "artist_name": "Conan Gray",
+      "genre": "pop",
+      "start_sec": 0,
+      "duration_sec": 174,
+      "valence": 0.854,
+      "energy": 0.716,
+      "popularity": 59
+    },
+    {
+      "slot": 2,
+      "track_id": "1aHD82i5jonBoNqyOj33ts",
+      "track_name": "Can't Hold On",
+      "artist_name": "MED",
+      "genre": "hip-hop",
+      "start_sec": 174,
+      "duration_sec": 182,
+      "valence": 0.732,
+      "energy": 0.832,
+      "popularity": 41
+    },
+    {
+      "slot": 3,
+      "track_id": "0YNtAadZvKBBEFARtfoCV8",
+      "track_name": "Compass",
+      "artist_name": "The Neighbourhood",
+      "genre": "alt-rock",
+      "start_sec": 356,
+      "duration_sec": 167,
+      "valence": 0.667,
+      "energy": 0.82,
+      "popularity": 69
+    },
+    {
+      "slot": 4,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 523,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    }
+  ],
+  "total_duration_sec": 675,
+  "objective_val": "0.9345"
+}

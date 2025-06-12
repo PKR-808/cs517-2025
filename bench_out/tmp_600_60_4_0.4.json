@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "0wS4OuuXKAXN8aUCG6f3tE",
+      "track_name": "Los Tres Mandos",
+      "artist_name": "Alfredo Olivas",
+      "genre": "sad",
+      "start_sec": 0,
+      "duration_sec": 150,
+      "valence": 0.908,
+      "energy": 0.673,
+      "popularity": 41
+    },
+    {
+      "slot": 2,
+      "track_id": "5WUgOOaTk00PnksDekcgcg",
+      "track_name": "Baby, Please Don't Go (feat. Van Morrison)",
+      "artist_name": "Them",
+      "genre": "blues",
+      "start_sec": 150,
+      "duration_sec": 162,
+      "valence": 0.775,
+      "energy": 0.705,
+      "popularity": 58
+    },
+    {
+      "slot": 3,
+      "track_id": "15YEYgT0kDso9gwOcJFAmV",
+      "track_name": "O Beb\u00ea",
+      "artist_name": "MC Kevinho",
+      "genre": "funk",
+      "start_sec": 312,
+      "duration_sec": 178,
+      "valence": 0.794,
+      "energy": 0.746,
+      "popularity": 51
+    },
+    {
+      "slot": 4,
+      "track_id": "54GASuUdLbhhdyECNUp3Pb",
+      "track_name": "The King",
+      "artist_name": "Conan Gray",
+      "genre": "pop",
+      "start_sec": 490,
+      "duration_sec": 174,
+      "valence": 0.854,
+      "energy": 0.716,
+      "popularity": 59
+    }
+  ],
+  "total_duration_sec": 664,
+  "objective_val": "0.3175"
+}

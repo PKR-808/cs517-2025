@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6c6W25YoDGjTq3qSPOga5t",
+      "track_name": "Ink",
+      "artist_name": "Coldplay",
+      "genre": "pop",
+      "start_sec": 0,
+      "duration_sec": 228,
+      "valence": 0.696,
+      "energy": 0.705,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "18XlJEroUwFo0tLZxscgXE",
+      "track_name": "Lost",
+      "artist_name": "Maroon 5",
+      "genre": "pop",
+      "start_sec": 228,
+      "duration_sec": 172,
+      "valence": 0.766,
+      "energy": 0.706,
+      "popularity": 70
+    },
+    {
+      "slot": 3,
+      "track_id": "2s0ouHqJebHfiQ6C1GUFJd",
+      "track_name": "Milkshake - Radio Mix",
+      "artist_name": "Kelis",
+      "genre": "pop",
+      "start_sec": 400,
+      "duration_sec": 182,
+      "valence": 0.819,
+      "energy": 0.77,
+      "popularity": 55
+    },
+    {
+      "slot": 4,
+      "track_id": "511nAWwck8asPjql96eM2Y",
+      "track_name": "Concrete",
+      "artist_name": "Lovejoy",
+      "genre": "indie-pop",
+      "start_sec": 582,
+      "duration_sec": 196,
+      "valence": 0.773,
+      "energy": 0.727,
+      "popularity": 63
+    },
+    {
+      "slot": 5,
+      "track_id": "1oBeN9WcGKsSCm0MvxYlkp",
+      "track_name": "\u4e00\u4eba\u508d\u665a\u85dd\u8853\u9928",
+      "artist_name": "Jason Chan",
+      "genre": "cantopop",
+      "start_sec": 778,
+      "duration_sec": 203,
+      "valence": 0.674,
+      "energy": 0.77,
+      "popularity": 45
+    }
+  ],
+  "total_duration_sec": 981,
+  "objective_val": "0.7135"
+}

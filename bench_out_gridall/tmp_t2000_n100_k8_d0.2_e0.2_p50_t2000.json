@@ -1,0 +1,102 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7I3skNaQdvZSS7zXY2VHId",
+      "track_name": "The Hype",
+      "artist_name": "Twenty One Pilots",
+      "genre": "rock",
+      "start_sec": 0,
+      "duration_sec": 265,
+      "valence": 0.371,
+      "energy": 0.816,
+      "popularity": 61
+    },
+    {
+      "slot": 2,
+      "track_id": "2EGF4JrisrJ4D4HOdTyYEO",
+      "track_name": "Bulletproof Heart",
+      "artist_name": "My Chemical Romance",
+      "genre": "emo",
+      "start_sec": 265,
+      "duration_sec": 296,
+      "valence": 0.383,
+      "energy": 0.95,
+      "popularity": 58
+    },
+    {
+      "slot": 3,
+      "track_id": "6kiASFX63DwJ7grwKG2HUX",
+      "track_name": "Seven Pillars of Wisdom",
+      "artist_name": "Sabaton",
+      "genre": "metal",
+      "start_sec": 561,
+      "duration_sec": 182,
+      "valence": 0.222,
+      "energy": 0.98,
+      "popularity": 56
+    },
+    {
+      "slot": 4,
+      "track_id": "2U3qvcXEsqPuQyJjJwVjyy",
+      "track_name": "Mas Pa Alla Que Pa Aca",
+      "artist_name": "La Santa Grifa",
+      "genre": "sad",
+      "start_sec": 743,
+      "duration_sec": 305,
+      "valence": 0.347,
+      "energy": 0.782,
+      "popularity": 43
+    },
+    {
+      "slot": 5,
+      "track_id": "2aXtvKNcNHlbZEsZ5C9yVB",
+      "track_name": "Pearl Fountain",
+      "artist_name": "Yung Lean",
+      "genre": "hip-hop",
+      "start_sec": 1048,
+      "duration_sec": 193,
+      "valence": 0.214,
+      "energy": 0.652,
+      "popularity": 46
+    },
+    {
+      "slot": 6,
+      "track_id": "4Oo4zq02t4mKYSGVYxggHf",
+      "track_name": "Foundations (feat. Jasmine Thompson)",
+      "artist_name": "KOLIDESCOPES",
+      "genre": "soul",
+      "start_sec": 1241,
+      "duration_sec": 231,
+      "valence": 0.285,
+      "energy": 0.467,
+      "popularity": 45
+    },
+    {
+      "slot": 7,
+      "track_id": "7rErmb9ztCh29H8nWmavQz",
+      "track_name": "Special",
+      "artist_name": "21 Savage",
+      "genre": "hip-hop",
+      "start_sec": 1472,
+      "duration_sec": 217,
+      "valence": 0.333,
+      "energy": 0.321,
+      "popularity": 47
+    },
+    {
+      "slot": 8,
+      "track_id": "3TNoNv8Z80M3pfm6CcODsh",
+      "track_name": "One More Day",
+      "artist_name": "Diamond Rio",
+      "genre": "country",
+      "start_sec": 1689,
+      "duration_sec": 216,
+      "valence": 0.234,
+      "energy": 0.405,
+      "popularity": 53
+    }
+  ],
+  "total_duration_sec": 1905,
+  "objective_val": "1.893"
+}

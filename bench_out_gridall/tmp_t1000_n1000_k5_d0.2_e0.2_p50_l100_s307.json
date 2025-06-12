@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "3UFQM2oW4KXP3ZZ3jtBx2P",
+      "track_name": "Peruvian Cocaine",
+      "artist_name": "Immortal Technique",
+      "genre": "hardcore",
+      "start_sec": 0,
+      "duration_sec": 288,
+      "valence": 0.645,
+      "energy": 0.628,
+      "popularity": 45
+    },
+    {
+      "slot": 2,
+      "track_id": "5S12Ds2RswM2ITC0u1J01f",
+      "track_name": "VVS",
+      "artist_name": "Ninho",
+      "genre": "french",
+      "start_sec": 288,
+      "duration_sec": 187,
+      "valence": 0.525,
+      "energy": 0.61,
+      "popularity": 68
+    },
+    {
+      "slot": 3,
+      "track_id": "2nC6sOquD3iftWwqweRBqM",
+      "track_name": "Virgin Veins",
+      "artist_name": "Coma Cinema",
+      "genre": "folk",
+      "start_sec": 475,
+      "duration_sec": 155,
+      "valence": 0.539,
+      "energy": 0.466,
+      "popularity": 49
+    },
+    {
+      "slot": 4,
+      "track_id": "0QBFN6bzOfLb42ktCeffpN",
+      "track_name": "Ghost",
+      "artist_name": "Upchurch",
+      "genre": "country",
+      "start_sec": 630,
+      "duration_sec": 191,
+      "valence": 0.427,
+      "energy": 0.572,
+      "popularity": 49
+    },
+    {
+      "slot": 5,
+      "track_id": "5FYdyPcP06Xi0KBjF7re5o",
+      "track_name": "Monday Morning Merle",
+      "artist_name": "Cody Johnson",
+      "genre": "country",
+      "start_sec": 821,
+      "duration_sec": 229,
+      "valence": 0.409,
+      "energy": 0.58,
+      "popularity": 51
+    }
+  ],
+  "total_duration_sec": 1050,
+  "objective_val": "0.6"
+}

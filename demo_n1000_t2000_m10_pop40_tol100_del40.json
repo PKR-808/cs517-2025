@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "4fjSiuY9b3uBeGd1KBUNZE",
+      "track_name": "Family Tree (Intro)",
+      "artist_name": "Ethel Cain",
+      "genre": "indie-pop",
+      "start_sec": 0,
+      "duration_sec": 221,
+      "valence": 0.0889,
+      "energy": 0.574,
+      "popularity": 55
+    },
+    {
+      "slot": 2,
+      "track_id": "2W5okrcUdy35nWqhY9Oy6J",
+      "track_name": "I Will Fly - Alternate Version",
+      "artist_name": "Ten2Five",
+      "genre": "indie-pop",
+      "start_sec": 221,
+      "duration_sec": 222,
+      "valence": 0.395,
+      "energy": 0.227,
+      "popularity": 52
+    },
+    {
+      "slot": 3,
+      "track_id": "6l61EFBU45uBfwj9ueJJVM",
+      "track_name": "For the Dancing and the Dreaming",
+      "artist_name": "Erutan",
+      "genre": "folk",
+      "start_sec": 443,
+      "duration_sec": 173,
+      "valence": 0.144,
+      "energy": 0.0925,
+      "popularity": 49
+    },
+    {
+      "slot": 4,
+      "track_id": "2vRBYKWOyHtFMtiK60qRz7",
+      "track_name": "Trevo (Tu)",
+      "artist_name": "ANAVIT\u00d3RIA",
+      "genre": "folk",
+      "start_sec": 616,
+      "duration_sec": 205,
+      "valence": 0.2,
+      "energy": 0.374,
+      "popularity": 65
+    },
+    {
+      "slot": 5,
+      "track_id": "2Y4jKE3vhkI2yR3Ms065ZZ",
+      "track_name": "What The World Needs Now Is Love",
+      "artist_name": "Stacey Kent",
+      "genre": "jazz",
+      "start_sec": 821,
+      "duration_sec": 252,
+      "valence": 0.337,
+      "energy": 0.0572,
+      "popularity": 49
+    },
+    {
+      "slot": 6,
+      "track_id": "1g0xyCMUBKUaMDCk00Hhmk",
+      "track_name": "Embody Me",
+      "artist_name": "Novo Amor",
+      "genre": "ambient",
+      "start_sec": 1073,
+      "duration_sec": 190,
+      "valence": 0.147,
+      "energy": 0.263,
+      "popularity": 59
+    },
+    {
+      "slot": 7,
+      "track_id": "2fUDCiasFBRZ7G2fZwzfp6",
+      "track_name": "defeating a devil a day",
+      "artist_name": "YOHIO",
+      "genre": "metal",
+      "start_sec": 1263,
+      "duration_sec": 183,
+      "valence": 0.281,
+      "energy": 0.499,
+      "popularity": 43
+    },
+    {
+      "slot": 8,
+      "track_id": "1ej2ir5g4uW20gdaK7YoXz",
+      "track_name": "Mindset",
+      "artist_name": "Every Avenue",
+      "genre": "emo",
+      "start_sec": 1446,
+      "duration_sec": 206,
+      "valence": 0.668,
+      "energy": 0.863,
+      "popularity": 46
+    },
+    {
+      "slot": 9,
+      "track_id": "6qItZri8lMKeIbBUuSV3Ea",
+      "track_name": "Atrapados en la red",
+      "artist_name": "Tam Tam Go!",
+      "genre": "indie-pop",
+      "start_sec": 1652,
+      "duration_sec": 263,
+      "valence": 0.948,
+      "energy": 0.749,
+      "popularity": 43
+    },
+    {
+      "slot": 10,
+      "track_id": "18XlJEroUwFo0tLZxscgXE",
+      "track_name": "Lost",
+      "artist_name": "Maroon 5",
+      "genre": "pop",
+      "start_sec": 1915,
+      "duration_sec": 172,
+      "valence": 0.766,
+      "energy": 0.706,
+      "popularity": 70
+    }
+  ],
+  "total_duration_sec": 2087,
+  "objective_val": "5.80235"
+}

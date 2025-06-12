@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "7gChGUkqWkinDS7uYoMLIM",
+      "track_name": "Moaning Lisa Smile",
+      "artist_name": "Wolf Alice",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 162,
+      "valence": 0.294,
+      "energy": 0.839,
+      "popularity": 44
+    },
+    {
+      "slot": 2,
+      "track_id": "0HKNlsZ0zFlSqUqWj1nVVG",
+      "track_name": "R\u00e9seaux",
+      "artist_name": "Niska",
+      "genre": "french",
+      "start_sec": 162,
+      "duration_sec": 196,
+      "valence": 0.349,
+      "energy": 0.668,
+      "popularity": 62
+    },
+    {
+      "slot": 3,
+      "track_id": "2wzNQYX6veNM0AJncAV75v",
+      "track_name": "Up",
+      "artist_name": "Adelitas Way",
+      "genre": "alt-rock",
+      "start_sec": 358,
+      "duration_sec": 169,
+      "valence": 0.417,
+      "energy": 0.611,
+      "popularity": 49
+    },
+    {
+      "slot": 4,
+      "track_id": "31cQX1WeqiCHQSysz9KaVb",
+      "track_name": "TANTO FAZ",
+      "artist_name": "MC Cabelinho",
+      "genre": "funk",
+      "start_sec": 527,
+      "duration_sec": 164,
+      "valence": 0.285,
+      "energy": 0.585,
+      "popularity": 66
+    }
+  ],
+  "total_duration_sec": 691,
+  "objective_val": "0.522"
+}

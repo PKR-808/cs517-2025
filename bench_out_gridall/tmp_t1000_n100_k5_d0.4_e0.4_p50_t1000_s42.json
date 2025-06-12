@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "46Zp8uVjBCEVeSUDsZ8EwI",
+      "track_name": "Hades",
+      "artist_name": "Bushido",
+      "genre": "german",
+      "start_sec": 0,
+      "duration_sec": 182,
+      "valence": 0.705,
+      "energy": 0.725,
+      "popularity": 49
+    },
+    {
+      "slot": 2,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 182,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    },
+    {
+      "slot": 3,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 334,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "1BRwuvjhkgezmv1gcI6lT6",
+      "track_name": "Die Young",
+      "artist_name": "Sylvan Esso",
+      "genre": "electro",
+      "start_sec": 525,
+      "duration_sec": 210,
+      "valence": 0.418,
+      "energy": 0.544,
+      "popularity": 56
+    },
+    {
+      "slot": 5,
+      "track_id": "3TNoNv8Z80M3pfm6CcODsh",
+      "track_name": "One More Day",
+      "artist_name": "Diamond Rio",
+      "genre": "country",
+      "start_sec": 735,
+      "duration_sec": 216,
+      "valence": 0.234,
+      "energy": 0.405,
+      "popularity": 53
+    }
+  ],
+  "total_duration_sec": 951,
+  "objective_val": "1.738"
+}

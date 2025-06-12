@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 0,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "740kQ8xwSGloumdiKR5Cwz",
+      "track_name": "Trillionaire (feat. Youngboy Never Broke Again)",
+      "artist_name": "Future",
+      "genre": "hip-hop",
+      "start_sec": 152,
+      "duration_sec": 167,
+      "valence": 0.473,
+      "energy": 0.526,
+      "popularity": 59
+    },
+    {
+      "slot": 3,
+      "track_id": "6vWthvlvgLo7ub3sBuPeTI",
+      "track_name": "Hurt That You Gave Me",
+      "artist_name": "Cheat Codes",
+      "genre": "edm",
+      "start_sec": 319,
+      "duration_sec": 191,
+      "valence": 0.441,
+      "energy": 0.716,
+      "popularity": 50
+    },
+    {
+      "slot": 4,
+      "track_id": "6Xs7OKt6i0Ddq8B4M5Dgvr",
+      "track_name": "New Americana",
+      "artist_name": "Halsey",
+      "genre": "electro",
+      "start_sec": 510,
+      "duration_sec": 183,
+      "valence": 0.359,
+      "energy": 0.707,
+      "popularity": 61
+    }
+  ],
+  "total_duration_sec": 693,
+  "objective_val": "0.6885"
+}

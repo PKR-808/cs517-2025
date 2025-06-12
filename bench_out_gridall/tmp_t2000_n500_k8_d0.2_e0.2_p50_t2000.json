@@ -1,0 +1,102 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "078C2jXg7XsMgW78Gfx1JA",
+      "track_name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
+      "artist_name": "Tyler, The Creator",
+      "genre": "hip-hop",
+      "start_sec": 0,
+      "duration_sec": 334,
+      "valence": 0.55,
+      "energy": 0.849,
+      "popularity": 66
+    },
+    {
+      "slot": 2,
+      "track_id": "349Wc5mDu52d4Uv8Eg9WZv",
+      "track_name": "Indigo",
+      "artist_name": "88rising",
+      "genre": "hip-hop",
+      "start_sec": 334,
+      "duration_sec": 173,
+      "valence": 0.71,
+      "energy": 0.664,
+      "popularity": 60
+    },
+    {
+      "slot": 3,
+      "track_id": "7MaFVQ1ZYwXk0K5ehUU9dX",
+      "track_name": "Mil Horas - En Vivo",
+      "artist_name": "Esteban Gabriel",
+      "genre": "sad",
+      "start_sec": 507,
+      "duration_sec": 169,
+      "valence": 0.618,
+      "energy": 0.768,
+      "popularity": 45
+    },
+    {
+      "slot": 4,
+      "track_id": "6hNkAbTxNp5VYMZQuWfMxN",
+      "track_name": "Battle Scars",
+      "artist_name": "Paradise Fears",
+      "genre": "indie-pop",
+      "start_sec": 676,
+      "duration_sec": 288,
+      "valence": 0.439,
+      "energy": 0.802,
+      "popularity": 47
+    },
+    {
+      "slot": 5,
+      "track_id": "2MLPCjSRpBVLoX6y2P6vJ9",
+      "track_name": "Take Me to Church (Glee Cast Version)",
+      "artist_name": "Glee Cast",
+      "genre": "club",
+      "start_sec": 964,
+      "duration_sec": 242,
+      "valence": 0.425,
+      "energy": 0.649,
+      "popularity": 42
+    },
+    {
+      "slot": 6,
+      "track_id": "5Yzb3sVRYO4kqHhy0iVs1K",
+      "track_name": "Clich\u00ea (Participa\u00e7\u00e3o especial de Felipe Ara\u00fajo)",
+      "artist_name": "LUDMILLA",
+      "genre": "funk",
+      "start_sec": 1206,
+      "duration_sec": 190,
+      "valence": 0.228,
+      "energy": 0.53,
+      "popularity": 44
+    },
+    {
+      "slot": 7,
+      "track_id": "5hgnY0mVcVetszbb85qeDg",
+      "track_name": "Partition",
+      "artist_name": "Beyonc\u00e9",
+      "genre": "dance",
+      "start_sec": 1396,
+      "duration_sec": 319,
+      "valence": 0.172,
+      "energy": 0.441,
+      "popularity": 69
+    },
+    {
+      "slot": 8,
+      "track_id": "6NocTrJyaeRwDeEHzPEux3",
+      "track_name": "Hereafter",
+      "artist_name": "Matt Quentin",
+      "genre": "chill",
+      "start_sec": 1715,
+      "duration_sec": 190,
+      "valence": 0.15,
+      "energy": 0.248,
+      "popularity": 47
+    }
+  ],
+  "total_duration_sec": 1905,
+  "objective_val": "2.056"
+}

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-prep_tracks.py  –  Data‑prep utility for the playlist‑SMT project
+–  Data‑prep utility for the playlist‑SMT project
 ────────────────────────────────────────────────────────────────
 Reads a Spotify‑style CSV, applies user‑defined filters, and writes
 a `.jsonl` file (one JSON object per track) ready for the solver.

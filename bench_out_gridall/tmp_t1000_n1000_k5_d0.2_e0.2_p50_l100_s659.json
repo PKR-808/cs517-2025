@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "2W8h5MfN0SxPdpZmTfwoft",
+      "track_name": "After You",
+      "artist_name": "Jason Aldean",
+      "genre": "country",
+      "start_sec": 0,
+      "duration_sec": 179,
+      "valence": 0.699,
+      "energy": 0.854,
+      "popularity": 46
+    },
+    {
+      "slot": 2,
+      "track_id": "3ZO2h0YUr2Uft7G8w4k7Ru",
+      "track_name": "Empezar Desde Cero",
+      "artist_name": "La Fiera de Ojinaga",
+      "genre": "sad",
+      "start_sec": 179,
+      "duration_sec": 200,
+      "valence": 0.882,
+      "energy": 0.866,
+      "popularity": 48
+    },
+    {
+      "slot": 3,
+      "track_id": "23CsjGOYDQiJpX44BSn9TM",
+      "track_name": "Aleluya",
+      "artist_name": "Reik",
+      "genre": "pop",
+      "start_sec": 379,
+      "duration_sec": 158,
+      "valence": 0.689,
+      "energy": 0.716,
+      "popularity": 65
+    },
+    {
+      "slot": 4,
+      "track_id": "0poEFjyV2iHKtxjdWFwjmS",
+      "track_name": "All Night (feat. Ally Brooke)",
+      "artist_name": "AFROJACK",
+      "genre": "house",
+      "start_sec": 537,
+      "duration_sec": 166,
+      "valence": 0.635,
+      "energy": 0.877,
+      "popularity": 45
+    },
+    {
+      "slot": 5,
+      "track_id": "03VzAAMs5PrLM42XR7ijuc",
+      "track_name": "Pussy Liquor",
+      "artist_name": "Rob Zombie",
+      "genre": "alt-rock",
+      "start_sec": 703,
+      "duration_sec": 286,
+      "valence": 0.531,
+      "energy": 0.923,
+      "popularity": 49
+    }
+  ],
+  "total_duration_sec": 989,
+  "objective_val": "1.0085"
+}

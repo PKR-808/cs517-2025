@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "15YEYgT0kDso9gwOcJFAmV",
+      "track_name": "O Beb\u00ea",
+      "artist_name": "MC Kevinho",
+      "genre": "funk",
+      "start_sec": 0,
+      "duration_sec": 178,
+      "valence": 0.794,
+      "energy": 0.746,
+      "popularity": 51
+    },
+    {
+      "slot": 2,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 178,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    },
+    {
+      "slot": 3,
+      "track_id": "6CeOuCrMBB3iHViJiO5whN",
+      "track_name": "Ser\u00eda Un Placer",
+      "artist_name": "Neto Pe\u00f1a",
+      "genre": "hip-hop",
+      "start_sec": 330,
+      "duration_sec": 173,
+      "valence": 0.844,
+      "energy": 0.621,
+      "popularity": 64
+    },
+    {
+      "slot": 4,
+      "track_id": "5WUgOOaTk00PnksDekcgcg",
+      "track_name": "Baby, Please Don't Go (feat. Van Morrison)",
+      "artist_name": "Them",
+      "genre": "blues",
+      "start_sec": 503,
+      "duration_sec": 162,
+      "valence": 0.775,
+      "energy": 0.705,
+      "popularity": 58
+    }
+  ],
+  "total_duration_sec": 665,
+  "objective_val": "0.933"
+}

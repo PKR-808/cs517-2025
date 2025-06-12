@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "2wzNQYX6veNM0AJncAV75v",
+      "track_name": "Up",
+      "artist_name": "Adelitas Way",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 169,
+      "valence": 0.417,
+      "energy": 0.611,
+      "popularity": 49
+    },
+    {
+      "slot": 2,
+      "track_id": "3NRDLYyqIXja0UElvdzjkB",
+      "track_name": "Language",
+      "artist_name": "Porter Robinson",
+      "genre": "dance",
+      "start_sec": 169,
+      "duration_sec": 368,
+      "valence": 0.407,
+      "energy": 0.613,
+      "popularity": 51
+    },
+    {
+      "slot": 3,
+      "track_id": "31cQX1WeqiCHQSysz9KaVb",
+      "track_name": "TANTO FAZ",
+      "artist_name": "MC Cabelinho",
+      "genre": "funk",
+      "start_sec": 537,
+      "duration_sec": 164,
+      "valence": 0.285,
+      "energy": 0.585,
+      "popularity": 66
+    },
+    {
+      "slot": 4,
+      "track_id": "4Wh6n56DBiXcVDl0e3Nm7j",
+      "track_name": "Tu Hi Tu",
+      "artist_name": "Salman Khan",
+      "genre": "pop-film",
+      "start_sec": 701,
+      "duration_sec": 328,
+      "valence": 0.269,
+      "energy": 0.47,
+      "popularity": 40
+    }
+  ],
+  "total_duration_sec": 1029,
+  "objective_val": "0.2965"
+}

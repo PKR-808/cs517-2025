@@ -1,0 +1,102 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5h7Rzf4jqbuwWDkJdH09u4",
+      "track_name": "Impact",
+      "artist_name": "Angerfist",
+      "genre": "hardcore",
+      "start_sec": 0,
+      "duration_sec": 235,
+      "valence": 0.205,
+      "energy": 0.943,
+      "popularity": 47
+    },
+    {
+      "slot": 2,
+      "track_id": "12BaRsyTaDFykSk1aMB6rK",
+      "track_name": "Al Que Esta Sentado en el Trono",
+      "artist_name": "Marco Barrientos",
+      "genre": "rock",
+      "start_sec": 235,
+      "duration_sec": 256,
+      "valence": 0.329,
+      "energy": 0.802,
+      "popularity": 49
+    },
+    {
+      "slot": 3,
+      "track_id": "0fYVliAYKHuPmECRs1pbRf",
+      "track_name": "Renegades",
+      "artist_name": "X Ambassadors",
+      "genre": "alt-rock",
+      "start_sec": 491,
+      "duration_sec": 195,
+      "valence": 0.528,
+      "energy": 0.862,
+      "popularity": 75
+    },
+    {
+      "slot": 4,
+      "track_id": "4ml0940tmn92PzmkSb2lwU",
+      "track_name": "Stay Away",
+      "artist_name": "Charles Bradley",
+      "genre": "funk",
+      "start_sec": 686,
+      "duration_sec": 191,
+      "valence": 0.64,
+      "energy": 0.71,
+      "popularity": 54
+    },
+    {
+      "slot": 5,
+      "track_id": "0CouSp6wkZKvAhvY6aLFGe",
+      "track_name": "El Tren Hurac\u00e1n",
+      "artist_name": "La Ra\u00edz",
+      "genre": "ska",
+      "start_sec": 877,
+      "duration_sec": 251,
+      "valence": 0.58,
+      "energy": 0.792,
+      "popularity": 46
+    },
+    {
+      "slot": 6,
+      "track_id": "45bfH0GZvUyujIBiKRhXso",
+      "track_name": "B.O.T.A. (Baddest Of Them All)",
+      "artist_name": "Eliza Rose",
+      "genre": "house",
+      "start_sec": 1128,
+      "duration_sec": 358,
+      "valence": 0.749,
+      "energy": 0.962,
+      "popularity": 65
+    },
+    {
+      "slot": 7,
+      "track_id": "1aHD82i5jonBoNqyOj33ts",
+      "track_name": "Can't Hold On",
+      "artist_name": "MED",
+      "genre": "hip-hop",
+      "start_sec": 1486,
+      "duration_sec": 182,
+      "valence": 0.732,
+      "energy": 0.832,
+      "popularity": 41
+    },
+    {
+      "slot": 8,
+      "track_id": "2ugGNNwNaJdiusX3aLOMUy",
+      "track_name": "Whose Bed Have Your Boots Been Under?",
+      "artist_name": "Shania Twain",
+      "genre": "country",
+      "start_sec": 1668,
+      "duration_sec": 238,
+      "valence": 0.848,
+      "energy": 0.732,
+      "popularity": 58
+    }
+  ],
+  "total_duration_sec": 1906,
+  "objective_val": "2.1325"
+}

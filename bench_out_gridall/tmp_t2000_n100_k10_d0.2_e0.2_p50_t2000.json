@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "6vhOyWiOnO7EzxnXBllmkQ",
+      "track_name": "Go Solo (feat. Tom Rosenthal)",
+      "artist_name": "Zwette",
+      "genre": "german",
+      "start_sec": 0,
+      "duration_sec": 192,
+      "valence": 0.368,
+      "energy": 0.557,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "2aXtvKNcNHlbZEsZ5C9yVB",
+      "track_name": "Pearl Fountain",
+      "artist_name": "Yung Lean",
+      "genre": "hip-hop",
+      "start_sec": 192,
+      "duration_sec": 193,
+      "valence": 0.214,
+      "energy": 0.652,
+      "popularity": 46
+    },
+    {
+      "slot": 3,
+      "track_id": "56JJPu17vw3E0U7oBuUDRh",
+      "track_name": "Herb Shuttles",
+      "artist_name": "The Underachievers",
+      "genre": "hip-hop",
+      "start_sec": 385,
+      "duration_sec": 195,
+      "valence": 0.314,
+      "energy": 0.758,
+      "popularity": 41
+    },
+    {
+      "slot": 4,
+      "track_id": "2U3qvcXEsqPuQyJjJwVjyy",
+      "track_name": "Mas Pa Alla Que Pa Aca",
+      "artist_name": "La Santa Grifa",
+      "genre": "sad",
+      "start_sec": 580,
+      "duration_sec": 305,
+      "valence": 0.347,
+      "energy": 0.782,
+      "popularity": 43
+    },
+    {
+      "slot": 5,
+      "track_id": "5mqzhMuUpvnMfwNz6iepmO",
+      "track_name": "Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",
+      "artist_name": "Diplo",
+      "genre": "dance",
+      "start_sec": 885,
+      "duration_sec": 181,
+      "valence": 0.486,
+      "energy": 0.845,
+      "popularity": 64
+    },
+    {
+      "slot": 6,
+      "track_id": "5r2620VyMS4JpB9UhmYjpG",
+      "track_name": "Burn Dem Bridges",
+      "artist_name": "Skin On Skin",
+      "genre": "techno",
+      "start_sec": 1066,
+      "duration_sec": 175,
+      "valence": 0.351,
+      "energy": 0.837,
+      "popularity": 60
+    },
+    {
+      "slot": 7,
+      "track_id": "7I3skNaQdvZSS7zXY2VHId",
+      "track_name": "The Hype",
+      "artist_name": "Twenty One Pilots",
+      "genre": "rock",
+      "start_sec": 1241,
+      "duration_sec": 265,
+      "valence": 0.371,
+      "energy": 0.816,
+      "popularity": 61
+    },
+    {
+      "slot": 8,
+      "track_id": "2y7OQv0Pm4220sk2KXv5mz",
+      "track_name": "Meltdown",
+      "artist_name": "Stromae",
+      "genre": "house",
+      "start_sec": 1506,
+      "duration_sec": 242,
+      "valence": 0.312,
+      "energy": 0.729,
+      "popularity": 46
+    },
+    {
+      "slot": 9,
+      "track_id": "7gChGUkqWkinDS7uYoMLIM",
+      "track_name": "Moaning Lisa Smile",
+      "artist_name": "Wolf Alice",
+      "genre": "alt-rock",
+      "start_sec": 1748,
+      "duration_sec": 162,
+      "valence": 0.294,
+      "energy": 0.839,
+      "popularity": 44
+    },
+    {
+      "slot": 10,
+      "track_id": "6kiASFX63DwJ7grwKG2HUX",
+      "track_name": "Seven Pillars of Wisdom",
+      "artist_name": "Sabaton",
+      "genre": "metal",
+      "start_sec": 1910,
+      "duration_sec": 182,
+      "valence": 0.222,
+      "energy": 0.98,
+      "popularity": 56
+    }
+  ],
+  "total_duration_sec": 2092,
+  "objective_val": "2.676"
+}

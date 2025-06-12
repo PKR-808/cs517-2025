@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "1siATRpCTikt3dpJiBonfk",
+      "track_name": "Soy Yo",
+      "artist_name": "Marc Anthony",
+      "genre": "salsa",
+      "start_sec": 0,
+      "duration_sec": 290,
+      "valence": 0.395,
+      "energy": 0.912,
+      "popularity": 41
+    },
+    {
+      "slot": 2,
+      "track_id": "2oW52tBeJNSv93Ct5AJb8q",
+      "track_name": "Una Noche Sin Pensar",
+      "artist_name": "Sebastian Yatra",
+      "genre": "pop",
+      "start_sec": 290,
+      "duration_sec": 161,
+      "valence": 0.67,
+      "energy": 0.858,
+      "popularity": 77
+    },
+    {
+      "slot": 3,
+      "track_id": "5XZZE1pniUcNCFHgDIdFnZ",
+      "track_name": "Anywhere's Home",
+      "artist_name": "KSHMR",
+      "genre": "indian",
+      "start_sec": 451,
+      "duration_sec": 177,
+      "valence": 0.456,
+      "energy": 0.845,
+      "popularity": 48
+    },
+    {
+      "slot": 4,
+      "track_id": "5HgbcQFIHjNcn46w8ORwhu",
+      "track_name": "Greenlight - From \"Songland\"",
+      "artist_name": "Jonas Brothers",
+      "genre": "dance",
+      "start_sec": 628,
+      "duration_sec": 180,
+      "valence": 0.689,
+      "energy": 0.546,
+      "popularity": 47
+    },
+    {
+      "slot": 5,
+      "track_id": "7cZoAjj5vufdREBJZGW2lH",
+      "track_name": "Vamos Para Arriba",
+      "artist_name": "Junior H",
+      "genre": "sad",
+      "start_sec": 808,
+      "duration_sec": 172,
+      "valence": 0.625,
+      "energy": 0.51,
+      "popularity": 80
+    }
+  ],
+  "total_duration_sec": 980,
+  "objective_val": "1.965"
+}

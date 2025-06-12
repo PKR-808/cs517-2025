@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "4lo5BtNY65i6IDtWExZu1U",
+      "track_name": "Let's Go!",
+      "artist_name": "Lensko",
+      "genre": "edm",
+      "start_sec": 0,
+      "duration_sec": 206,
+      "valence": 0.458,
+      "energy": 0.911,
+      "popularity": 49
+    },
+    {
+      "slot": 2,
+      "track_id": "508eAloKwV2WF4Agk94rQB",
+      "track_name": "Passing Out Pieces",
+      "artist_name": "Mac DeMarco",
+      "genre": "edm",
+      "start_sec": 206,
+      "duration_sec": 167,
+      "valence": 0.423,
+      "energy": 0.73,
+      "popularity": 57
+    },
+    {
+      "slot": 3,
+      "track_id": "7F3vjCKPlhvWKGl0h4p3lm",
+      "track_name": "the way i used to",
+      "artist_name": "Kelsea Ballerini",
+      "genre": "country",
+      "start_sec": 373,
+      "duration_sec": 195,
+      "valence": 0.52,
+      "energy": 0.651,
+      "popularity": 47
+    },
+    {
+      "slot": 4,
+      "track_id": "7nJPt8h1ONb7XRWxxqTW7Q",
+      "track_name": "Euphoria",
+      "artist_name": "Dr Rude",
+      "genre": "hardstyle",
+      "start_sec": 568,
+      "duration_sec": 212,
+      "valence": 0.139,
+      "energy": 0.96,
+      "popularity": 45
+    },
+    {
+      "slot": 5,
+      "track_id": "2WhcOCqUuMk9IYCB5AZ4YK",
+      "track_name": "Somebody New (feat. Jordan Shaw)",
+      "artist_name": "YouNotUs",
+      "genre": "german",
+      "start_sec": 780,
+      "duration_sec": 154,
+      "valence": 0.401,
+      "energy": 0.776,
+      "popularity": 44
+    },
+    {
+      "slot": 6,
+      "track_id": "749MvEtNXKsgfq5trXJUbk",
+      "track_name": "Rise - Retrovision Remix",
+      "artist_name": "Jonas Blue",
+      "genre": "dance",
+      "start_sec": 934,
+      "duration_sec": 190,
+      "valence": 0.541,
+      "energy": 0.745,
+      "popularity": 49
+    },
+    {
+      "slot": 7,
+      "track_id": "0NXqhf7bDVLz8fGUVyzajw",
+      "track_name": "L\u00e5t mig g\u00e5",
+      "artist_name": "Veronica Maggio",
+      "genre": "swedish",
+      "start_sec": 1124,
+      "duration_sec": 186,
+      "valence": 0.417,
+      "energy": 0.689,
+      "popularity": 51
+    },
+    {
+      "slot": 8,
+      "track_id": "3Dq4oFbUEv56Z0yKXaTqF6",
+      "track_name": "Die for You",
+      "artist_name": "The Seige",
+      "genre": "alt-rock",
+      "start_sec": 1310,
+      "duration_sec": 222,
+      "valence": 0.37,
+      "energy": 0.735,
+      "popularity": 42
+    },
+    {
+      "slot": 9,
+      "track_id": "3Rw3ap7xrfji6invhvGuJP",
+      "track_name": "T9x",
+      "artist_name": "Tech N9ne",
+      "genre": "hip-hop",
+      "start_sec": 1532,
+      "duration_sec": 387,
+      "valence": 0.495,
+      "energy": 0.698,
+      "popularity": 41
+    },
+    {
+      "slot": 10,
+      "track_id": "5ZM0KyQMBzHVwi2kXfZLFX",
+      "track_name": "Ragtime Cat",
+      "artist_name": "Parov Stelar",
+      "genre": "electro",
+      "start_sec": 1919,
+      "duration_sec": 181,
+      "valence": 0.885,
+      "energy": 0.627,
+      "popularity": 42
+    }
+  ],
+  "total_duration_sec": 2100,
+  "objective_val": "2.7465"
+}

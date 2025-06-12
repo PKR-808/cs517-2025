@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "3rzIUBesEjJLqDY1sE0iz3",
+      "track_name": "All a Dream",
+      "artist_name": "Jon Kennedy",
+      "genre": "electro",
+      "start_sec": 0,
+      "duration_sec": 152,
+      "valence": 0.185,
+      "energy": 0.0712,
+      "popularity": 51
+    },
+    {
+      "slot": 2,
+      "track_id": "3Knohqfb9jeYzL6wMZiWLM",
+      "track_name": "The Council of Elrond (feat. \"Aniron\") [Theme for Aragorn and Arwen]",
+      "artist_name": "Howard Shore",
+      "genre": "classical",
+      "start_sec": 152,
+      "duration_sec": 229,
+      "valence": 0.039,
+      "energy": 0.111,
+      "popularity": 60
+    },
+    {
+      "slot": 3,
+      "track_id": "2mUCD9Bx2IOFFrVtEH3tyg",
+      "track_name": "Somebody Out There",
+      "artist_name": "A Rocket To The Moon",
+      "genre": "alt-rock",
+      "start_sec": 381,
+      "duration_sec": 209,
+      "valence": 0.233,
+      "energy": 0.409,
+      "popularity": 54
+    },
+    {
+      "slot": 4,
+      "track_id": "0HKNlsZ0zFlSqUqWj1nVVG",
+      "track_name": "R\u00e9seaux",
+      "artist_name": "Niska",
+      "genre": "french",
+      "start_sec": 590,
+      "duration_sec": 196,
+      "valence": 0.349,
+      "energy": 0.668,
+      "popularity": 62
+    },
+    {
+      "slot": 5,
+      "track_id": "5XXJnC5TvcL2QsAZ3Nxgku",
+      "track_name": "I Love You Boy",
+      "artist_name": "Suzy",
+      "genre": "k-pop",
+      "start_sec": 786,
+      "duration_sec": 264,
+      "valence": 0.157,
+      "energy": 0.384,
+      "popularity": 55
+    },
+    {
+      "slot": 6,
+      "track_id": "6vhOyWiOnO7EzxnXBllmkQ",
+      "track_name": "Go Solo (feat. Tom Rosenthal)",
+      "artist_name": "Zwette",
+      "genre": "german",
+      "start_sec": 1050,
+      "duration_sec": 192,
+      "valence": 0.368,
+      "energy": 0.557,
+      "popularity": 60
+    },
+    {
+      "slot": 7,
+      "track_id": "0CouSp6wkZKvAhvY6aLFGe",
+      "track_name": "El Tren Hurac\u00e1n",
+      "artist_name": "La Ra\u00edz",
+      "genre": "ska",
+      "start_sec": 1242,
+      "duration_sec": 251,
+      "valence": 0.58,
+      "energy": 0.792,
+      "popularity": 46
+    },
+    {
+      "slot": 8,
+      "track_id": "0YNtAadZvKBBEFARtfoCV8",
+      "track_name": "Compass",
+      "artist_name": "The Neighbourhood",
+      "genre": "alt-rock",
+      "start_sec": 1493,
+      "duration_sec": 167,
+      "valence": 0.667,
+      "energy": 0.82,
+      "popularity": 69
+    },
+    {
+      "slot": 9,
+      "track_id": "1aHD82i5jonBoNqyOj33ts",
+      "track_name": "Can't Hold On",
+      "artist_name": "MED",
+      "genre": "hip-hop",
+      "start_sec": 1660,
+      "duration_sec": 182,
+      "valence": 0.732,
+      "energy": 0.832,
+      "popularity": 41
+    },
+    {
+      "slot": 10,
+      "track_id": "0QOH4xpTbzUyBYHtWcfK8I",
+      "track_name": "No Parachute",
+      "artist_name": "ONEW",
+      "genre": "k-pop",
+      "start_sec": 1842,
+      "duration_sec": 168,
+      "valence": 0.711,
+      "energy": 0.729,
+      "popularity": 49
+    }
+  ],
+  "total_duration_sec": 2010,
+  "objective_val": "2.6878"
+}

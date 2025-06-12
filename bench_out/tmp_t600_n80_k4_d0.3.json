@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 0,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    },
+    {
+      "slot": 2,
+      "track_id": "6CeOuCrMBB3iHViJiO5whN",
+      "track_name": "Ser\u00eda Un Placer",
+      "artist_name": "Neto Pe\u00f1a",
+      "genre": "hip-hop",
+      "start_sec": 152,
+      "duration_sec": 173,
+      "valence": 0.844,
+      "energy": 0.621,
+      "popularity": 64
+    },
+    {
+      "slot": 3,
+      "track_id": "0s9xZDmDtrZKvgXVNJl5VS",
+      "track_name": "Bad Bitches Wrk @ Taboo",
+      "artist_name": "Tory Lanez",
+      "genre": "hip-hop",
+      "start_sec": 325,
+      "duration_sec": 177,
+      "valence": 0.818,
+      "energy": 0.564,
+      "popularity": 59
+    },
+    {
+      "slot": 4,
+      "track_id": "2D3UoXaFRyCP9trM5LtWQ5",
+      "track_name": "Simple Step",
+      "artist_name": "Vulfpeck",
+      "genre": "funk",
+      "start_sec": 502,
+      "duration_sec": 165,
+      "valence": 0.928,
+      "energy": 0.601,
+      "popularity": 55
+    }
+  ],
+  "total_duration_sec": 667,
+  "objective_val": "0.492"
+}

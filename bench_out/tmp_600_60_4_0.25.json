@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "0YNtAadZvKBBEFARtfoCV8",
+      "track_name": "Compass",
+      "artist_name": "The Neighbourhood",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 167,
+      "valence": 0.667,
+      "energy": 0.82,
+      "popularity": 69
+    },
+    {
+      "slot": 2,
+      "track_id": "0QOH4xpTbzUyBYHtWcfK8I",
+      "track_name": "No Parachute",
+      "artist_name": "ONEW",
+      "genre": "k-pop",
+      "start_sec": 167,
+      "duration_sec": 168,
+      "valence": 0.711,
+      "energy": 0.729,
+      "popularity": 49
+    },
+    {
+      "slot": 3,
+      "track_id": "4ml0940tmn92PzmkSb2lwU",
+      "track_name": "Stay Away",
+      "artist_name": "Charles Bradley",
+      "genre": "funk",
+      "start_sec": 335,
+      "duration_sec": 191,
+      "valence": 0.64,
+      "energy": 0.71,
+      "popularity": 54
+    },
+    {
+      "slot": 4,
+      "track_id": "5WUgOOaTk00PnksDekcgcg",
+      "track_name": "Baby, Please Don't Go (feat. Van Morrison)",
+      "artist_name": "Them",
+      "genre": "blues",
+      "start_sec": 526,
+      "duration_sec": 162,
+      "valence": 0.775,
+      "energy": 0.705,
+      "popularity": 58
+    }
+  ],
+  "total_duration_sec": 688,
+  "objective_val": "0.3665"
+}

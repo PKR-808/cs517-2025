@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "53DB6LJV9B8sz0p1s6tlGS",
+      "track_name": "Roll Up",
+      "artist_name": "Wiz Khalifa",
+      "genre": "dance",
+      "start_sec": 0,
+      "duration_sec": 227,
+      "valence": 0.602,
+      "energy": 0.805,
+      "popularity": 61
+    },
+    {
+      "slot": 2,
+      "track_id": "3CC2sCo30DhwOwGI4NN30I",
+      "track_name": "Take It Slow",
+      "artist_name": "Conner Smith",
+      "genre": "country",
+      "start_sec": 227,
+      "duration_sec": 162,
+      "valence": 0.524,
+      "energy": 0.838,
+      "popularity": 63
+    },
+    {
+      "slot": 3,
+      "track_id": "7Ch9AUCVekPV3QSaEIA6qH",
+      "track_name": "Dem Beats",
+      "artist_name": "Todrick Hall",
+      "genre": "dance",
+      "start_sec": 389,
+      "duration_sec": 218,
+      "valence": 0.437,
+      "energy": 0.861,
+      "popularity": 49
+    },
+    {
+      "slot": 4,
+      "track_id": "2uhBCMHwS3SATOHIgM2KPF",
+      "track_name": "Text\u00e3o - Ao Vivo",
+      "artist_name": "Z\u00e9 Neto & Cristiano",
+      "genre": "sertanejo",
+      "start_sec": 607,
+      "duration_sec": 183,
+      "valence": 0.364,
+      "energy": 0.84,
+      "popularity": 48
+    },
+    {
+      "slot": 5,
+      "track_id": "67HWsN2AzmPNiIY8H4ZGYs",
+      "track_name": "La Buena Sombra",
+      "artist_name": "IZAL",
+      "genre": "spanish",
+      "start_sec": 790,
+      "duration_sec": 227,
+      "valence": 0.435,
+      "energy": 0.882,
+      "popularity": 42
+    }
+  ],
+  "total_duration_sec": 1017,
+  "objective_val": "0.4765"
+}

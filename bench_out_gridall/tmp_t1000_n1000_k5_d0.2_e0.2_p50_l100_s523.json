@@ -1,0 +1,66 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "79r0T2eehj5l0baOIlqP2o",
+      "track_name": "Be The Moon (feat. Brett Young & Cassadee Pope)",
+      "artist_name": "Chris Tomlin",
+      "genre": "alt-rock",
+      "start_sec": 0,
+      "duration_sec": 214,
+      "valence": 0.435,
+      "energy": 0.843,
+      "popularity": 44
+    },
+    {
+      "slot": 2,
+      "track_id": "38XcmJDV2pjjVcCvdpMpA2",
+      "track_name": "High Like This",
+      "artist_name": "Yves V",
+      "genre": "dance",
+      "start_sec": 214,
+      "duration_sec": 169,
+      "valence": 0.386,
+      "energy": 0.826,
+      "popularity": 53
+    },
+    {
+      "slot": 3,
+      "track_id": "1U8Ho1nOzKXYDvfigOuHG4",
+      "track_name": "Kush - Main",
+      "artist_name": "Dr. Dre",
+      "genre": "funk",
+      "start_sec": 383,
+      "duration_sec": 235,
+      "valence": 0.375,
+      "energy": 0.866,
+      "popularity": 63
+    },
+    {
+      "slot": 4,
+      "track_id": "3uZMREE8Fl1MFBeSYqFKzd",
+      "track_name": "Where I'm Coming From",
+      "artist_name": "Brandon Ratcliff",
+      "genre": "country",
+      "start_sec": 618,
+      "duration_sec": 215,
+      "valence": 0.536,
+      "energy": 0.668,
+      "popularity": 54
+    },
+    {
+      "slot": 5,
+      "track_id": "6FstWkgRdHagqJ6qjDbiK0",
+      "track_name": "Insoportable",
+      "artist_name": "El Canto Del Loco",
+      "genre": "spanish",
+      "start_sec": 833,
+      "duration_sec": 248,
+      "valence": 0.426,
+      "energy": 0.763,
+      "popularity": 58
+    }
+  ],
+  "total_duration_sec": 1081,
+  "objective_val": "1.3195"
+}

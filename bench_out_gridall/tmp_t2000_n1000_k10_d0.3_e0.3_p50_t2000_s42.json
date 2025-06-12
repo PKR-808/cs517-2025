@@ -1,0 +1,126 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "5w9c2J52mkdntKOmRLeM2m",
+      "track_name": "Con Calma",
+      "artist_name": "Daddy Yankee",
+      "genre": "hip-hop",
+      "start_sec": 0,
+      "duration_sec": 193,
+      "valence": 0.656,
+      "energy": 0.86,
+      "popularity": 77
+    },
+    {
+      "slot": 2,
+      "track_id": "2zzGRIrSY0Wtvqh38bmQCX",
+      "track_name": "Waidmanns Heil",
+      "artist_name": "Rammstein",
+      "genre": "alt-rock",
+      "start_sec": 193,
+      "duration_sec": 212,
+      "valence": 0.684,
+      "energy": 0.969,
+      "popularity": 51
+    },
+    {
+      "slot": 3,
+      "track_id": "1M163jU3eaTObjYl1F3ANs",
+      "track_name": "Vamos A Olvidar",
+      "artist_name": "Sole\u00e1 Morente",
+      "genre": "spanish",
+      "start_sec": 405,
+      "duration_sec": 234,
+      "valence": 0.448,
+      "energy": 0.886,
+      "popularity": 47
+    },
+    {
+      "slot": 4,
+      "track_id": "3glNWhZ110B2DLJcCyPfGt",
+      "track_name": "Ants in Pants",
+      "artist_name": "Sara Costa",
+      "genre": "french",
+      "start_sec": 639,
+      "duration_sec": 150,
+      "valence": 0.404,
+      "energy": 0.626,
+      "popularity": 51
+    },
+    {
+      "slot": 5,
+      "track_id": "03v4cC1r1VyIhcYrPAu65U",
+      "track_name": "ENEMY",
+      "artist_name": "KARD",
+      "genre": "k-pop",
+      "start_sec": 789,
+      "duration_sec": 175,
+      "valence": 0.422,
+      "energy": 0.81,
+      "popularity": 42
+    },
+    {
+      "slot": 6,
+      "track_id": "7LVck898vegWlmM0Rwc81Z",
+      "track_name": "In Situ",
+      "artist_name": "Bloc Party",
+      "genre": "punk",
+      "start_sec": 964,
+      "duration_sec": 175,
+      "valence": 0.53,
+      "energy": 0.88,
+      "popularity": 40
+    },
+    {
+      "slot": 7,
+      "track_id": "6nz4nvsk1RAmiAhtrcqCkk",
+      "track_name": "El Que Te Amaba",
+      "artist_name": "Marc Anthony",
+      "genre": "salsa",
+      "start_sec": 1139,
+      "duration_sec": 248,
+      "valence": 0.825,
+      "energy": 0.941,
+      "popularity": 49
+    },
+    {
+      "slot": 8,
+      "track_id": "1ej2ir5g4uW20gdaK7YoXz",
+      "track_name": "Mindset",
+      "artist_name": "Every Avenue",
+      "genre": "emo",
+      "start_sec": 1387,
+      "duration_sec": 206,
+      "valence": 0.668,
+      "energy": 0.863,
+      "popularity": 46
+    },
+    {
+      "slot": 9,
+      "track_id": "6qItZri8lMKeIbBUuSV3Ea",
+      "track_name": "Atrapados en la red",
+      "artist_name": "Tam Tam Go!",
+      "genre": "indie-pop",
+      "start_sec": 1593,
+      "duration_sec": 263,
+      "valence": 0.948,
+      "energy": 0.749,
+      "popularity": 43
+    },
+    {
+      "slot": 10,
+      "track_id": "18XlJEroUwFo0tLZxscgXE",
+      "track_name": "Lost",
+      "artist_name": "Maroon 5",
+      "genre": "pop",
+      "start_sec": 1856,
+      "duration_sec": 172,
+      "valence": 0.766,
+      "energy": 0.706,
+      "popularity": 70
+    }
+  ],
+  "total_duration_sec": 2028,
+  "objective_val": "3.127"
+}

@@ -1,0 +1,54 @@
+{
+  "playlist": [
+    {
+      "slot": 1,
+      "track_id": "45bfH0GZvUyujIBiKRhXso",
+      "track_name": "B.O.T.A. (Baddest Of Them All)",
+      "artist_name": "Eliza Rose",
+      "genre": "house",
+      "start_sec": 0,
+      "duration_sec": 358,
+      "valence": 0.749,
+      "energy": 0.962,
+      "popularity": 65
+    },
+    {
+      "slot": 2,
+      "track_id": "5AQNVgt7BKHKRhrNFFgSPF",
+      "track_name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
+      "artist_name": "Marcos & Belutti",
+      "genre": "sertanejo",
+      "start_sec": 358,
+      "duration_sec": 171,
+      "valence": 0.641,
+      "energy": 0.855,
+      "popularity": 45
+    },
+    {
+      "slot": 3,
+      "track_id": "6nR9eZoi3N1YCAvU8x9qxE",
+      "track_name": "G\u00f6n\u00fcl Sayfam",
+      "artist_name": "Kayahan",
+      "genre": "folk",
+      "start_sec": 529,
+      "duration_sec": 256,
+      "valence": 0.823,
+      "energy": 0.665,
+      "popularity": 47
+    },
+    {
+      "slot": 4,
+      "track_id": "1cDvFWYfap0eQ3c86jPcRG",
+      "track_name": "Yalakan\u0131m Bebe\u011fim",
+      "artist_name": "Kalben",
+      "genre": "singer-songwriter",
+      "start_sec": 785,
+      "duration_sec": 152,
+      "valence": 0.78,
+      "energy": 0.56,
+      "popularity": 60
+    }
+  ],
+  "total_duration_sec": 937,
+  "objective_val": "0.9665"
+}
